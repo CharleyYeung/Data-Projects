@@ -1,19 +1,19 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays while we fix a signal failure at Embankment.  "
+        "reason": "Bakerloo Line: Severe delays due to an earlier signal failure. "
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: No service clockwise and SEVERE DELAYS anticlockwise while emergency services deal with a casualty on the track. Tickets are being accepted on London Buses.  "
+        "reason": "Circle Line: Minor delays due to an earlier customer incident.  "
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: No service between Embankment and Earl's Court westbound only while emergency services deal with a casualty on the track. No service between High Street Kensington and Edgware Road due to a points failure at High Street Kensington. Please change at High Street Kensington to continue your journey on the Circle line. Tickets are also being accepted on London Buses. SEVERE DELAYS on the rest of the line. "
+        "reason": "District Line: No service between High Street Kensington and Edgware Road due to a points failure at High Street Kensington. Please change at High Street Kensington to continue your journey on the Circle line. MINOR DELAYS on the rest of the line due to an earlier customer incident. Tickets are being accepted on London Buses.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -24,8 +24,8 @@
         "reason": "ELIZABETH LINE: Due to vandalism to railway equipment we are running a reduced service at certain times of the day so please continue to check before you travel"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: No service between Barking and Liverpool Street westbound only while emergency services deal with a casualty on the track. GOOD SERVICE on the rest of the line. London buses are accepting tickets via any reasonable route. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -48,8 +48,8 @@
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: No service between Edgware and Camden Town southbound, SEVERE DELAYS between Edgware and Camden Town northbound, and MINOR DELAYS between Kennington and  Camden Town northbound only while we fix a points failure at Hampstead. GOOD SERVICE on the rest of the line. "
     },
     "Piccadilly": {
         "is_disrupted": false,
