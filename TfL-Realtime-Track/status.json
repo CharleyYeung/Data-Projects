@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Baker Street and Aldgate and MINOR DELAYS on the rest of the line due to a collapsed drain on the track at Baker Street. Tickets are being accepted on London Buses, Chiltern Railway and Thameslink.  "
+        "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Uxbridge due to a collapsed drain on the track at Baker Street. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Chiltern Railway and Thameslink.  "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -52,8 +52,8 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: Minor delays between Acton Town and Uxbridge due to an earlier animal on the track. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -68,15 +68,15 @@
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: No service while we fix a signal failure at Waterloo. "
     },
     "Weaver": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "WINDRUSH LINE: Monday 7, Tuesday 8, Wednesday 9 and Thursday 10 September, after 2215 each evening, no service between Sydenham and West Croydon. West Croydon trains will divert to and depart from Crystal Palace after 2215. Use local buses via any reasonable route or Southern Railway trains between Sydenham and Norwood Junction. Tickets will also be accepted on Southern Railway trains between Crystal Palace and East Croydon (via Norwood Junction), and on two Southern Railway rail replacement buses departing Norwood Junction at 2318 and 0013 for West Croydon via Selhurst (and onward to Sutton). Last through trains: Highbury & Islington to West Croydon 2147; West Croydon to Highbury & Islington 2246"
     }
 }
