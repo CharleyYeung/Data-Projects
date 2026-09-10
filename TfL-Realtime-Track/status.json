@@ -9,7 +9,7 @@
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Severe delays due to a collapsed drain on the track at Baker Street. Tickets are being accepted on London Buses, the Mildmay line, DLR and C2C. "
+        "reason": "Circle Line: Minor delays due to a collapsed drain on the track at Baker Street.  "
     },
     "District": {
         "is_disrupted": false,
@@ -21,11 +21,11 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Paddington and Heathrow Terminal 4 and MINOR DELAYS between Hayes & Harlington and Reading due to vandalism to railway equipment in the Paddington area. GOOD SERVICE on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+        "reason": "Minor delays between Hayes & Harlington and Reading due to vandalism to railway equipment in the Paddington area. GOOD SERVICE on the rest of the line.  "
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Severe delays due to a collapsed drain on the track at Baker Street. Tickets are being accepted on London Buses, the Mildmay line, DLR and C2C. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Acton Town and Uxbridge westbound only while we remove an animal from the track. GOOD SERVICE on the rest of the line. "
+        "reason": "Piccadilly Line: Minor delays between Acton Town and Uxbridge due to an earlier animal on the track. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to train cancellations.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": false,
