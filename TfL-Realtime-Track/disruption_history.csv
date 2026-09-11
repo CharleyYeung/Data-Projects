@@ -10967,3 +10967,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-09-11 00:33:52,Windrush,Windrush Line: Service will resume later this morning. ,True
 2026-09-11 05:15:44,Elizabeth line,Minor delays between Paddington and Heathrow Terminal 4 due to vandalism to railway equipment in the Paddington area. GOOD SERVICE on the rest of the line.   ,True
 2026-09-11 05:15:44,Metropolitan,Metropolitan Line: No service between Baker Street and Aldgate and MINOR DELAYS between Harrow-on-the-Hill and Baker Street due to a collapsed drain on the track at Baker Street. GOOD SERVICE on the rest of the line.  ,True
+2026-09-11 09:53:56,Elizabeth line,Minor delays between Paddington and Heathrow Terminal 4 due to vandalism to railway equipment in the Paddington area. GOOD SERVICE on the rest of the line. ,True
+2026-09-11 09:53:56,Metropolitan,Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street due to a collapsed drain on the track at Baker Street. GOOD SERVICE on the rest of the line. Tickets being accepted on London Buses and Chiltern railway services.  ,True
+2026-09-11 09:53:56,Piccadilly,Piccadilly Line: Severe delays due to an earlier trespasser at Hammersmith. Tickets are being accepted on London Buses  Elizabeth line  Weaver line and Great Northern.  ,True
+2026-09-11 09:53:56,Victoria,Victoria Line: Minor delays due to train cancellations.  ,True

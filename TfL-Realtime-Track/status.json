@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Minor delays between Paddington and Heathrow Terminal 4 due to vandalism to railway equipment in the Paddington area. GOOD SERVICE on the rest of the line. \r\n "
+        "reason": "Minor delays between Paddington and Heathrow Terminal 4 due to vandalism to railway equipment in the Paddington area. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Baker Street and Aldgate and MINOR DELAYS between Harrow-on-the-Hill and Baker Street due to a collapsed drain on the track at Baker Street. GOOD SERVICE on the rest of the line.  "
+        "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street due to a collapsed drain on the track at Baker Street. GOOD SERVICE on the rest of the line. Tickets being accepted on London Buses and Chiltern railway services.  "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -52,8 +52,8 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Severe delays due to an earlier trespasser at Hammersmith. Tickets are being accepted on London Buses, Elizabeth line, Weaver line and Great Northern.  "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations.  "
     },
     "Waterloo & City": {
         "is_disrupted": false,
