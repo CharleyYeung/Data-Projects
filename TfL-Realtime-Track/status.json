@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Baker Street and Aldgate and MINOR DELAYS on the rest of the line due to a collapsed drain on the track at Baker Street. Tickets being accepted on London Buses and Chiltern railway services. "
+        "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to a collapsed drain on the track at Baker Street. MINOR DELAYS on the rest of the line. Tickets being accepted on London Buses and Chiltern railway services. "
     },
     "Mildmay": {
         "is_disrupted": true,
