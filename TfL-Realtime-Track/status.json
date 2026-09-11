@@ -1,19 +1,19 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays between Stonebridge Park and Harrow & Wealdstone due to a sewage leak on the track at Watford High Street. Tickets being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault due to train cancellations. GOOD SERVICE on the rest of the line.  "
+        "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Minor delays between Earl's Court and Upminster due to an earlier trespasser on the track at Hammersmith. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Minor delays between Paddington and Heathrow Terminal 4 due to vandalism to railway equipment in the Paddington area. GOOD SERVICE on the rest of the line. "
+        "reason": "Severe delays between Paddington and Heathrow Terminal 4 and MINOR DELAYS between Hayes & Harlington and Reading due to vandalism to railway equipment in the Paddington area. MINOR DELAYS between Whitechapel and Shenfield due to signal failure at Gidea Park. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -37,23 +37,23 @@
     },
     "Lioness": {
         "is_disrupted": true,
-        "reason": "Lioness Line: No service between Harrow & Wealdstone and Watford Junction and SEVERE DELAYS on the rest of the line due to a sewage leak on the track at Watford High Street. London Underground is accepting tickets via reasonable routes, but Bakerloo line services are also disrupted. "
+        "reason": "Lioness Line: No service between Watford Junction and Willesden Junction and MINOR DELAYS on the rest of the line due to a sewage leak on the track at Watford High Street. London Underground is accepting tickets via reasonable routes. "
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Baker Street and Aldgate and MINOR DELAYS between Harrow-on-the-Hill and Uxbridge due to a collapsed drain on the track at Baker Street. SEVERE DELAYS Harrow-on-the-Hill and Baker Street due to an earlier faulty train at Finchley Road. Tickets being accepted on London Buses and Chiltern railway services. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: No service between Baker Street and Aldgate and MINOR DELAYS on the rest of the line due to a collapsed drain on the track at Baker Street. Tickets being accepted on London Buses and Chiltern railway services. "
     },
     "Mildmay": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": true,
-        "reason": "Northern Line: Severe delays between Camden Town and Edgware due to an earlier signal failure at Chalk Farm. MINOR DELAYS on the rest of line. Tickets are being accepted on London Buses and Thameslink.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Minor delays due to an earlier customer incident at Hounslow East. "
+        "reason": "Piccadilly Line: No service between King's Cross St. Pancras and Arnos Grove and SEVERE DELAYS on the rest of the line while emergency services deal with a casualty on the track. Tickets are being accepted on London Buses, Great Northern, London Overground and South Western Railway services. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -72,8 +72,8 @@
         "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: Severe delays between Liverpool Street and Chingford while we conduct a safety inspection of the track at Wood Street. London Underground is accepting tickets via reasonable routes. GOOD SERVICE on the rest of the line. "
     },
     "Windrush": {
         "is_disrupted": false,
