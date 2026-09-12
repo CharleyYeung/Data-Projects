@@ -16,16 +16,16 @@
         "reason": "DISTRICT LINE: Saturday 12 and Sunday 13 September, no service between Tower Hill / Edgware Road and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury and Richmond on Saturday. Replacement buses operate. If travelling to Chelsea vs Hull City AFC at Stamford Bridge on Saturday, please use PICCADILLY LINE services at Earls Court."
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: No service between Pontoon Dock and Woolwich Arsenal due to a power supply failure at Woolwich Arsenal. NO SERVICE between Blackwall and Canning Town while we respond to a fire alert at East India. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Severe delays Hayes & Harlington and Reading due to vandalism to equipment in the Paddington area. MINOR DELAYS Paddington and Heathrow Terminal 4. GOOD SERVICE on the rest of the line.  "
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: No service between Liverpool Street and Barking and SEVERE DELAYS on the rest of the line while we fix a points failure at Tower Hill. Tickets will be accepted on London Buses and the Elizabeth line. "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Severe delays due to an earlier faulty track at Balham. Tickets are being accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway services.  "
+        "reason": "Northern Line: No service between Mornington Crescent and Charing Cross southbound only while we respond to a fire alert at Mornington Crescent. Tickets being accepted by London Buses via any reasonable routes. MINOR DELAYS between Kennington and Battersea Power Station. GOOD SERVICE on the rest of the line.  "
     },
     "Piccadilly": {
         "is_disrupted": false,
