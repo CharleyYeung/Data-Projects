@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to an earlier points failure at Stratford.  "
+        "reason": "Jubilee Line: Minor delays due to train cancellations. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -40,12 +40,12 @@
         "reason": "Lioness Line: No service between Watford Junction and Willesden Junction due to a sewage leak on the track at Watford High Street. MINOR DELAYS on the rest of the line. London Underground is accepting tickets via reasonable route. For travel to / from Wembley Stadium, please use Wembley Park station.  "
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays due to a collapsed drain at Baker Street.  "
-    },
-    "Mildmay": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Mildmay": {
+        "is_disrupted": true,
+        "reason": "MILDMAY LINE: Saturday 12 September, the 2131 train from Richmond to Stratford will terminate at Willesden Junction at 2149. The 2244 train from Stratford to Richmond will not run\r\nThe 22:59 train from Stratford to Richmond will terminate at Willesden Junction at 2342"
     },
     "Northern": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays Acton Town and Heathrow Airport/Uxbridge due to a signal failure at Bounds Green. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+        "reason": "Piccadilly Line: Severe delays while we fix a signal failure at Bounds Green. London Buses, Elizabeth line, Weaver line, Great Northern and South Western Railway services are accepting tickets via any reasonable route. "
     },
     "Suffragette": {
         "is_disrupted": false,
