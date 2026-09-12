@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: No service between Paddington and Elephant & Castle while we respond to a fire alert at Piccadilly Circus. Tickets being accepted on London Buses and Thameslink. SEVERE DELAYS on the rest of the line.  "
     },
     "Central": {
         "is_disrupted": false,
@@ -25,7 +25,7 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: No service between Liverpool Street and Barking and SEVERE DELAYS on the rest of the line while we fix a points failure at Tower Hill. Tickets will be accepted on London Buses and the Elizabeth line. "
+        "reason": "Hammersmith and City Line: Severe delays due to a points failure at Tower Hill. Tickets will be accepted on London Buses and the Elizabeth line. "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -49,11 +49,11 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: No service between Mornington Crescent and Charing Cross southbound only while we respond to a fire alert at Mornington Crescent. Tickets being accepted by London Buses via any reasonable routes. MINOR DELAYS between Kennington and Battersea Power Station. GOOD SERVICE on the rest of the line.  "
+        "reason": "Northern Line: Minor delays due to an earlier fire alert at Mornington Crescent.  "
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Severe delays between Acton Town and Cockfosters due to a signal failure at Bounds Green. GOOD SERVICE on the rest of the line. Tickets will be accepted on local buses. "
     },
     "Suffragette": {
         "is_disrupted": false,
