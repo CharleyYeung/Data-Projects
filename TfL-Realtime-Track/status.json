@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: No service between Paddington and Elephant & Castle while we respond to a fire alert at Piccadilly Circus. Tickets being accepted on London Buses and Thameslink. SEVERE DELAYS on the rest of the line.  "
+        "reason": "Bakerloo Line: Severe delays due to an earlier fire alert at Piccadilly Circus. Tickets being accepted on London Buses and Thameslink. For travel to / from Wembley Stadium, please use Wembley Park station.  "
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations.  "
     },
     "Circle": {
         "is_disrupted": true,
@@ -25,11 +25,11 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Severe delays due to a points failure at Tower Hill. Tickets will be accepted on London Buses and the Elizabeth line. "
+        "reason": "Hammersmith and City Line: Minor delays due to a points failure at Tower Hill.  "
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Severe delays due to an earlier points failure at Stratford. Tickets being accepted on London Buses, Mildmay line, DLR and Elizabeth line.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -37,23 +37,23 @@
     },
     "Lioness": {
         "is_disrupted": true,
-        "reason": "Lioness Line: No service between Watford Junction and Willesden Junction due to a sewage leak on the track at Watford High Street. MINOR DELAYS on the rest of the line. London Underground is accepting tickets via reasonable route. "
+        "reason": "Lioness Line: No service between Watford Junction and Willesden Junction due to a sewage leak on the track at Watford High Street. MINOR DELAYS on the rest of the line. London Underground is accepting tickets via reasonable route. For travel to / from Wembley Stadium, please use Wembley Park station.  "
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Baker Street and Aldgate and MINOR DELAYS on the rest of the line due to a collapsed drain on the track at Baker Street. Tickets being accepted on London Buses and Chiltern railway services. "
+        "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate and MINOR DELAYS on the rest of the line due to a collapsed drain on the track at Baker Street. Tickets being accepted on London Buses and Chiltern railway services. "
     },
     "Mildmay": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": true,
-        "reason": "Northern Line: Minor delays due to an earlier fire alert at Mornington Crescent.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays between Acton Town and Cockfosters due to a signal failure at Bounds Green. GOOD SERVICE on the rest of the line. Tickets will be accepted on local buses. "
+        "reason": "Piccadilly Line: Severe delays Acton Town and Heathrow Airport/Uxbridge due to a signal failure at Bounds Green. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
     },
     "Suffragette": {
         "is_disrupted": false,
