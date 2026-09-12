@@ -10997,3 +10997,18 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-09-11 22:33:57,Metropolitan,Metropolitan Line: No service between Baker Street and Aldgate due to a collapsed drain on the track at Baker Street. MINOR DELAYS on the rest of the line. Tickets being accepted on London Buses and Chiltern railway services. ,True
 2026-09-11 22:33:57,Mildmay,Mildmay Line: Severe delays due to train cancellations. London Underground are accepting tickets via reasonable route. ,True
 2026-09-11 22:33:57,Piccadilly,Piccadilly Line: Severe delays due to an earlier customer incident. Tickets are being accepted on London Buses  Great Northern  London Overground and South Western Railway services. ,True
+2026-09-12 00:38:27,Bakerloo,Bakerloo Line: Service will resume later this morning. ,True
+2026-09-12 00:38:27,Circle,Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Aldgate via Victoria due to planned engineering work ,True
+2026-09-12 00:38:27,District,District Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. ,True
+2026-09-12 00:38:27,DLR,Docklands Light Railway: Service will resume later this morning. ,True
+2026-09-12 00:38:27,Elizabeth line,Service will resume later this morning. ,True
+2026-09-12 00:38:27,Hammersmith & City,Hammersmith and City Line: Service will resume later this morning. ,True
+2026-09-12 00:38:27,Liberty,Liberty Line: Service will resume later this morning. ,True
+2026-09-12 00:38:27,Lioness,Lioness Line: Service will resume later this morning. ,True
+2026-09-12 00:38:27,Metropolitan,Metropolitan Line: Service will resume later this morning. ,True
+2026-09-12 00:38:27,Mildmay,Mildmay Line: Service will resume later this morning. ,True
+2026-09-12 00:38:27,Northern,Northern Line: No service between Kennington and Morden and SEVERE DELAYS on the rest of the line while we fix a track fault at Balham. Tickets are being accepted on London Buses  London Trams  Southeastern  Thameslink and South Western Railway services.  ,True
+2026-09-12 00:38:27,Suffragette,Suffragette Line: Service will resume later this morning. ,True
+2026-09-12 00:38:27,Tram,London Tramlink: Service will resume later this morning. ,True
+2026-09-12 00:38:27,Waterloo & City,Waterloo and City Line: Service will resume at 06:00 on Monday. ,True
+2026-09-12 00:38:27,Weaver,Weaver Line: Service will resume later this morning. ,True
