@@ -24,12 +24,12 @@
         "reason": "Severe delays Hayes & Harlington and Reading due to vandalism to equipment in the Paddington area. MINOR DELAYS Paddington and Heathrow Terminal 4. GOOD SERVICE on the rest of the line.  "
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to a points failure at Tower Hill.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to an earlier points failure at Stratford. Tickets being accepted on London Buses, Mildmay line, DLR and Elizabeth line.  "
+        "reason": "Jubilee Line: Minor delays due to an earlier points failure at Stratford.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate and MINOR DELAYS on the rest of the line due to a collapsed drain on the track at Baker Street. Tickets being accepted on London Buses and Chiltern railway services. "
+        "reason": "Metropolitan Line: Minor delays due to a collapsed drain at Baker Street.  "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: Minor delays between Surrey Quays and New Cross due to train cancellations. GOOD SERVICE on the rest of the line. "
     }
 }
