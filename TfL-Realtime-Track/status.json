@@ -36,8 +36,8 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: No service between Willesden Junction and Watford Junction due to a sewage leak on the track at Watford High Street. MINOR DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
     },
     "Metropolitan": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Hounslow central and Heathrow Terminals and SEVERE DELAYS between Acton Town and Hounslow Central while we fix a signal failure at Hatton Cross. GOOD SERVICE on the rest of the line. "
+        "reason": "Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals due to an earlier signal failure at Hatton Cross and SEVERE DELAYS between Acton Town and Cockfosters westbound only due to an earlier faulty train at Hyde Park Corner. Tickets are being accepted on London Buses, Elizabeth line and South Western Railway services. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": true,
