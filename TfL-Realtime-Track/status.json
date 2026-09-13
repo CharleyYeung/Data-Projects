@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Woodford via Hainault due to train cancellations. MINOR DELAYS on the rest of the line.Tickets will be accepted on London buses. "
+        "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
         "is_disrupted": true,
@@ -24,8 +24,8 @@
         "reason": "Severe delays between Hayes & Harlington and Reading due to damage to equipment caused by vandalism in the Paddington area. MINOR DELAYS between Paddington and Heathrow Terminal 4. Tickets are being accepted on London Underground, London Buses, Great Western Railway and South Western Railway. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: No service between Liverpool Street and Barking while we fix a points failure at Tower Hill. Tickets are being accepted on London Buses, Elizabeth line, DLR and C2C railway services. MINOR DELAYS on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -52,8 +52,8 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: No service between Hounslow central and Heathrow Terminals and SEVERE DELAYS between Acton Town and Hounslow Central while we fix a signal failure at Hatton Cross. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": true,
