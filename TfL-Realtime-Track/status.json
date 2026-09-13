@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": false,
@@ -16,36 +16,36 @@
         "reason": "DISTRICT LINE: Saturday 12 and Sunday 13 September, no service between Tower Hill / Edgware Road and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury and Richmond on Saturday. Replacement buses operate. If travelling to Chelsea vs Hull City AFC at Stamford Bridge on Saturday, please use PICCADILLY LINE services at Earls Court."
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Service will resume later this morning, however there will be no service between Paddington and Heathrow until 07:00 due to emergency works. "
+        "reason": "No service between Paddington and Heathrow until 07:00 due to emergency engineering work to fix damage to equipment caused by vandalism in the Paddington area. Tickets are being accepted on London Buses and the Piccadilly line via any reasonable route. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Liberty": {
-        "is_disrupted": true,
-        "reason": "Liberty Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Lioness": {
         "is_disrupted": true,
-        "reason": "Lioness Line: Service will resume later this morning. "
+        "reason": "Lioness Line: Minor delays due to a sewage leak on the track at Watford High Street. "
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Service will resume later this morning, however there will be no service between Willesden Junction and Richmond due to planned engineering work. "
+        "reason": "MILDMAY LINE: Sunday 13 September, no service between Willesden Junction and Richmond. There is also no DISTRICT LINE service between Tower Hill and Richmond / Ealing Broadway. Replacement bus service DL3 operates between Willesden Junction and Richmond via Acton Central, South Acton (Acton Lane), Turnham Green, Chiswick Park, Gunnersbury and Kew Gardens (Royal Botanic Gardens)."
     },
     "Northern": {
         "is_disrupted": false,
@@ -57,11 +57,11 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: There will be no service all day Sunday 13th September due to planned engineering work. "
+        "reason": "SUFFRAGETTE LINE: Sunday 13 September, no service throughout the whole line. Use VICTORIA LINE connections between Seven Sisters (for South Tottenham), Blackhorse Road and Walthamstow Central (for Walthamstow Queens Road), and local London Buses services between Barking and Barking Riverside. Replacement buses operate."
     },
     "Tram": {
-        "is_disrupted": true,
-        "reason": "London Tramlink: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Victoria": {
         "is_disrupted": false,
@@ -69,14 +69,14 @@
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: Service will resume later this morning. "
-    },
-    "Windrush": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Windrush": {
+        "is_disrupted": true,
+        "reason": "WINDRUSH LINE: Sunday 13 September, until 0900, no service between Wandsworth Road and Clapham Junction. Trains are diverted to/from Battersea Park for SOUTHERN connections to/from Clapham Junction."
     }
 }
