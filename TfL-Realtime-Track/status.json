@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays due to an earlier fire alert at Piccadilly Circus. Tickets being accepted on London Buses and Thameslink. For travel to / from Wembley Stadium, please use Wembley Park station.  "
+        "reason": "Bakerloo Line: Service will resume later this morning. "
     },
     "Central": {
         "is_disrupted": false,
@@ -16,52 +16,52 @@
         "reason": "DISTRICT LINE: Saturday 12 and Sunday 13 September, no service between Tower Hill / Edgware Road and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury and Richmond on Saturday. Replacement buses operate. If travelling to Chelsea vs Hull City AFC at Stamford Bridge on Saturday, please use PICCADILLY LINE services at Earls Court."
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: Service will resume later this morning. "
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays Hayes & Harlington and Reading due to vandalism to equipment in the Paddington area. MINOR DELAYS Paddington and Heathrow Terminal 4. GOOD SERVICE on the rest of the line.  "
+        "reason": "Service will resume later this morning, however there will be no service between Paddington and Heathrow until 07:00 due to emergency works. "
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Service will resume later this morning. "
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to train cancellations. "
-    },
-    "Liberty": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Liberty": {
+        "is_disrupted": true,
+        "reason": "Liberty Line: Service will resume later this morning. "
     },
     "Lioness": {
         "is_disrupted": true,
-        "reason": "Lioness Line: No service between Watford Junction and Willesden Junction due to a sewage leak on the track at Watford High Street. MINOR DELAYS on the rest of the line. London Underground is accepting tickets via reasonable route. For travel to / from Wembley Stadium, please use Wembley Park station.  "
+        "reason": "Lioness Line: Service will resume later this morning. "
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Service will resume later this morning. "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "MILDMAY LINE: Saturday 12 September, the 2131 train from Richmond to Stratford will terminate at Willesden Junction at 2149. The 2244 train from Stratford to Richmond will not run\r\nThe 22:59 train from Stratford to Richmond will terminate at Willesden Junction at 2342"
+        "reason": "Mildmay Line: Service will resume later this morning, however there will be no service between Willesden Junction and Richmond due to planned engineering work. "
     },
     "Northern": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays while we fix a signal failure at Bounds Green. London Buses, Elizabeth line, Weaver line, Great Northern and South Western Railway services are accepting tickets via any reasonable route. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: There will be no service all day Sunday 13th September due to planned engineering work. "
     },
     "Tram": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "London Tramlink: Service will resume later this morning. "
     },
     "Victoria": {
         "is_disrupted": false,
@@ -69,14 +69,14 @@
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: Service will resume later this morning. "
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: Minor delays between Surrey Quays and Clapham Junction while we deal with a trespasser on the track at Denmark Hill. MINOR DELAYS between Surrey Quays and New Cross due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
