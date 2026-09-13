@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Minor delays due to train cancellations. "
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays due to train cancellations.  "
     },
     "Circle": {
         "is_disrupted": true,
@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "No service between Paddington and Heathrow until 07:00 due to emergency engineering work to fix damage to equipment caused by vandalism in the Paddington area. Tickets are being accepted on London Buses and the Piccadilly line via any reasonable route. GOOD SERVICE on the rest of the line. "
+        "reason": "Severe delays between Paddington and Hayes & Harlington due to damage to equipment caused by vandalism in the Paddington area. MINOR DELAYS between Paddington and Heathrow. Tickets are being accepted on London Underground, London Buses, Great Western Railway and South Western Railway. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -36,12 +36,12 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Minor delays due to a sewage leak on the track at Watford High Street. "
-    },
-    "Metropolitan": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Metropolitan": {
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only whilst we fix a collapsed drain. MINOR DELAYS on the rest of the line. Tickets will be accepted on London Buses. "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "WINDRUSH LINE: Sunday 13 September, until 0900, no service between Wandsworth Road and Clapham Junction. Trains are diverted to/from Battersea Park for SOUTHERN connections to/from Clapham Junction."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
