@@ -1,82 +1,82 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "CIRCLE LINE: Saturday 12 and Sunday 13 September, no service between Edgware Road and Aldgate (via Victoria)"
+        "reason": "Circle Line: Minor delays due to train cancellations. "
     },
     "District": {
         "is_disrupted": true,
-        "reason": "DISTRICT LINE: Saturday 12 and Sunday 13 September, no service between Tower Hill / Edgware Road and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury and Richmond on Saturday. Replacement buses operate. If travelling to Chelsea vs Hull City AFC at Stamford Bridge on Saturday, please use PICCADILLY LINE services at Earls Court."
+        "reason": "District Line: Minor delays due to train cancellations.  "
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
-        "is_disrupted": true,
-        "reason": "Liberty Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "MILDMAY LINE: Sunday 13 September, no service between Willesden Junction and Richmond. There is also no DISTRICT LINE service between Tower Hill and Richmond / Ealing Broadway. Replacement bus service DL3 operates between Willesden Junction and Richmond via Acton Central, South Acton (Acton Lane), Turnham Green, Chiswick Park, Gunnersbury and Kew Gardens (Royal Botanic Gardens)."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": true,
-        "reason": "Northern Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "SUFFRAGETTE LINE: Sunday 13 September, no service throughout the whole line. Use VICTORIA LINE connections between Seven Sisters (for South Tottenham), Blackhorse Road and Walthamstow Central (for Walthamstow Queens Road), and local London Buses services between Barking and Barking Riverside. Replacement buses operate."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
-        "is_disrupted": true,
-        "reason": "London Tramlink: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": true,
         "reason": "Waterloo and City Line: Service will resume at 06:00. "
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
