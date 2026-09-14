@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Service will resume later this morning. "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations. "
+        "reason": "Central Line: Service will resume later this morning. "
     },
     "Circle": {
         "is_disrupted": true,
@@ -16,67 +16,67 @@
         "reason": "DISTRICT LINE: Saturday 12 and Sunday 13 September, no service between Tower Hill / Edgware Road and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury and Richmond on Saturday. Replacement buses operate. If travelling to Chelsea vs Hull City AFC at Stamford Bridge on Saturday, please use PICCADILLY LINE services at Earls Court."
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: Service will resume later this morning. "
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Hayes & Harlington and Reading due to damage to equipment caused by vandalism in the Paddington area. MINOR DELAYS between Paddington and Heathrow Terminal 4. Tickets are being accepted on London Underground, London Buses, Great Western Railway and South Western Railway. GOOD SERVICE on the rest of the line. "
+        "reason": "Service will resume later this morning. "
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Service will resume later this morning. "
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Service will resume later this morning. "
     },
     "Liberty": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Liberty Line: Service will resume later this morning. "
     },
     "Lioness": {
         "is_disrupted": true,
-        "reason": "Lioness Line: No service between Willesden Junction and Watford Junction due to a sewage leak on the track at Watford High Street. MINOR DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+        "reason": "Lioness Line: Service will resume later this morning. "
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Service will resume later this morning. "
     },
     "Mildmay": {
         "is_disrupted": true,
         "reason": "MILDMAY LINE: Sunday 13 September, no service between Willesden Junction and Richmond. There is also no DISTRICT LINE service between Tower Hill and Richmond / Ealing Broadway. Replacement bus service DL3 operates between Willesden Junction and Richmond via Acton Central, South Acton (Acton Lane), Turnham Green, Chiswick Park, Gunnersbury and Kew Gardens (Royal Botanic Gardens)."
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: Service will resume later this morning. "
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals / Uxbridge due to an earlier signal failure at Hatton Cross and an earlier faulty train at Hyde Park Corner. Tickets are being accepted on London Buses, Elizabeth line and South Western Railway services. GOOD SERVICE on the rest of the line. "
+        "reason": "Piccadilly Line: Service will resume later this morning. "
     },
     "Suffragette": {
         "is_disrupted": true,
         "reason": "SUFFRAGETTE LINE: Sunday 13 September, no service throughout the whole line. Use VICTORIA LINE connections between Seven Sisters (for South Tottenham), Blackhorse Road and Walthamstow Central (for Walthamstow Queens Road), and local London Buses services between Barking and Barking Riverside. Replacement buses operate."
     },
     "Tram": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "London Tramlink: Service will resume later this morning. "
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Service will resume later this morning. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+        "reason": "Waterloo and City Line: Service will resume at 06:00. "
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: Service will resume later this morning. "
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: Service will resume later this morning. "
     }
 }
