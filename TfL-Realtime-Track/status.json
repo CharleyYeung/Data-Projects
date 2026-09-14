@@ -5,27 +5,27 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays between White City and Ealing Broadway/West Ruislip westbound only due to an earlier customer incident. GOOD SERVICE on the rest of the line. "
+        "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway / Richmond due to an earlier person ill on a train. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "No service between Maidenhead and Reading while emergency services deal with a casualty on the track. MINOR DELAYS between  Paddington and Heathrow Terminals/Maidenhead while we fix a faulty train at Paddington. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -53,11 +53,11 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays between Arnos Grove and Cockfosters while we fix a signal failure at Bounds Green. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+        "reason": "Piccadilly Line: Severe delays due to an earlier signal failure at Bounds Green. London Buses, Great Northern, London Overground and South Western Railway are accepting tickets via any reasonable route.  "
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway while we fix a points failure at Upper Holloway. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
         "is_disrupted": false,
