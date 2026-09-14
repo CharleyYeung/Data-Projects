@@ -11169,3 +11169,8 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-09-14 04:53:29,Circle,Circle Line: Minor delays due to train cancellations. ,True
 2026-09-14 04:53:29,District,District Line: Minor delays due to train cancellations.  ,True
 2026-09-14 04:53:29,Waterloo & City,Waterloo and City Line: Service will resume at 06:00. ,True
+2026-09-14 10:16:45,Central,Central Line: Minor delays between White City and Ealing Broadway/West Ruislip westbound only due to an earlier customer incident. GOOD SERVICE on the rest of the line. ,True
+2026-09-14 10:16:45,Elizabeth line,No service between Maidenhead and Reading while emergency services deal with a casualty on the track. MINOR DELAYS between  Paddington and Heathrow Terminals/Maidenhead while we fix a faulty train at Paddington. GOOD SERVICE on the rest of the line. ,True
+2026-09-14 10:16:45,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations. ,True
+2026-09-14 10:16:45,Piccadilly,Piccadilly Line: Severe delays between Arnos Grove and Cockfosters while we fix a signal failure at Bounds Green. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  ,True
+2026-09-14 10:16:45,Suffragette,Suffragette Line: No service between Gospel Oak and Upper Holloway while we fix a points failure at Upper Holloway. GOOD SERVICE on the rest of the line. ,True
