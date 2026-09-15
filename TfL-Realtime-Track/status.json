@@ -44,16 +44,16 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "MILDMAY LINE: Monday 14, Tuesday 15, Wednesday 16 and Thursday 17 September, after 2345 each evening, no service westbound from Stratford to Camden Road after 2345. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0035. Customers should use the last westbound service from Stratford at 2344, or local bus routes 30, 274, 388, 393 or 488."
     },
     "Northern": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays Acton Town to Uxbridge/Heathrow terminals, and MINOR DELAYS between Acton Town and Cockfosters due to an earlier faulty train at Oakwood. Tickets are being accepted on the Elizabeth line, Weaver line, South Western Railway and London Buses via any reasonable route. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "WINDRUSH LINE: Monday 14, Tuesday 15, Wednesday 16 and Thursday 17 September, after 2330 each evening, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses (Operated by Southern Railway) will run as follows: The bus for Crystal Palace will depart London Bridge at 2358 calling at New Cross Gate, Brockley, Honor Oak Park, Forest Hill, Sydenham, Crystal Palace, Gipsy Hill, West Norwood, Tulse Hill and Streatham Hill. The bus for East Croydon will depart London Bridge at 0035 calling at New Cross Gate, Brockley, Honor Oak Park, Forest Hill, Sydenham, Norwood Junction and East Croydon. One return bus from Crystal Palace departs at 2359, calling at all stations to London Bridge via New Cross Gate. Alternatively, use local buses or trams via any reasonable route. Last through trains: New Cross Gate to Crystal Palace 2324, Crystal Palace to New Cross Gate / Highbury & Islington 2332; New Cross Gate to West Croydon 2330, West Croydon to New Cross Gate / Highbury & Islington 2316. The 2232 and 2247 Highbury & Islington to West Croydon trains are diverted to Crystal Palace and the 2338 Dalston Junction to New Cross Gate train does not run."
     }
 }
