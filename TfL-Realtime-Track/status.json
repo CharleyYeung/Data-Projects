@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays between Harrow & Wealdstone and Stonebridge Park due to an earlier track fault at Harrow & Wealdstone. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": false,
@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Minor delays between Whitechapel and Shenfield due to a earlier faulty train at Gidea Park. GOOD service on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge / Heathrow Terminals, and MINOR DELAYS on the rest of the line due to an earlier signal failure at Turnpike Lane. Tickets are being accepted on the Elizabeth line and London Buses via any reasonable route. "
+        "reason": "Piccadilly Line: Severe delays Acton Town to Uxbridge/Heathrow terminals, and MINOR DELAYS between Acton Town and Cockfosters due to an earlier faulty train at Oakwood. Tickets are being accepted on the Elizabeth line, Weaver line, South Western Railway and London Buses via any reasonable route. "
     },
     "Suffragette": {
         "is_disrupted": false,
