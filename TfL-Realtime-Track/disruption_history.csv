@@ -11202,3 +11202,8 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-09-15 01:39:38,Waterloo & City,Waterloo and City Line: Service will resume at 06:00.  ,True
 2026-09-15 01:39:38,Weaver,Weaver Line: Service will resume later this morning.  ,True
 2026-09-15 01:39:38,Windrush,Windrush Line: Service will resume later this morning.  ,True
+2026-09-15 06:42:31,Bakerloo,Bakerloo Line: No service between Harrow & Wealdstone and Queen's Park while we fix a signal failure at Stonebridge Park. MINOR DELAYS on the rest of the line. Tickets will be accepted on London buses.  ,True
+2026-09-15 06:42:31,District,District Line: Severe delays between Barking and Upminster due to train cancellations. Tickets will be accepted on London Buses and C2C via reasonable routes. GOOD SERVICE on the rest of the line. ,True
+2026-09-15 06:42:31,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations.  ,True
+2026-09-15 06:42:31,Lioness,Lioness Line: No service on the entire line while we fix a signal failure at Stonebridge Park. ,True
+2026-09-15 06:42:31,Tram,London Tramlink: No service between Lloyd Park and Addington Village while we fix a signal failure at Lloyd Park. GOOD SERVICE on other Tram routes. ,True
