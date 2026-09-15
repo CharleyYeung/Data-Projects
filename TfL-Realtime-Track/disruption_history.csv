@@ -11208,3 +11208,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-09-15 06:42:31,Lioness,Lioness Line: No service on the entire line while we fix a signal failure at Stonebridge Park. ,True
 2026-09-15 06:42:31,Tram,London Tramlink: No service between Lloyd Park and Addington Village while we fix a signal failure at Lloyd Park. GOOD SERVICE on other Tram routes. ,True
 2026-09-15 12:09:35,Piccadilly,Piccadilly Line: Severe delays due to an earlier signal failure at Turnpike Lane. London Buses are accepting tickets via any reasonable route. ,True
+2026-09-15 16:57:11,Bakerloo,Bakerloo Line: Minor delays between Harrow & Wealdstone and Stonebridge Park due to an earlier track fault at Harrow & Wealdstone. GOOD SERVICE on the rest of the line. ,True
+2026-09-15 16:57:11,Elizabeth line,Minor delays between Whitechapel and Shenfield due to a earlier faulty train at Gidea Park. GOOD service on the rest of the line. ,True
+2026-09-15 16:57:11,Piccadilly,Piccadilly Line: Severe delays between Acton Town and Uxbridge / Heathrow Terminals  and MINOR DELAYS on the rest of the line due to an earlier signal failure at Turnpike Lane. Tickets are being accepted on the Elizabeth line and London Buses via any reasonable route. ,True
