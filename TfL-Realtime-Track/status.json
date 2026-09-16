@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault and MINOR DELAYS between North Acton and Leytonstone due to an earlier person ill on a train at Leyton. Tickets being accepted by London Buses, Liberty Line, Elizabeth Line, Chiltern, Great Western, Greater Anglia services. GOOD SERVICE on the rest of the line.  "
+        "reason": "Central Line: Minor delays between White City and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Woodford via Hainault due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "MILDMAY LINE: Wednesday 16 and Thursday 17 September, after 2300 each day, no service eastbound from Willesden Junction to Stratford. Customers should use the last eastbound services detailed below or London Overground services to Euston. Last through trains: Clapham Junction to Stratford 2218; Richmond to Stratford 22:32; Willesden Junction to Stratford 2252. The 2129 and 2159 trains from Stratford to Richmond, and 2135 train from Stratford to Clapham Junction, will terminate at Camden Road. The 2147 Clapham Junction to Stratford train will not run. The 2203 and 2234 Clapham Junction to Stratford trains, and the 2148 2240 and 2302 Richmond to Stratford trains will terminate at Willesden Junction. The 2300 Stratford to Richmond and 2318 Richmond to Willesden Junction trains will not run."
     },
     "Northern": {
         "is_disrupted": false,
@@ -56,16 +56,16 @@
         "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "SUFFRAGETTE LINE: Monday 14, Tuesday 15, Wednesday 16, Thursday 17 and Friday 18 Septenber, the 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338"
     },
     "Tram": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to an earlier customer incident. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": false,
