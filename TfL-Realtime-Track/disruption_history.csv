@@ -11272,3 +11272,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-09-17 10:00:10,Jubilee,Jubilee Line: No service between London Bridge and Green Park and SEVERE DELAYS on the rest of the line while we fix a faulty train at Westminster. London Buses  Mildmay line  DLR  Elizabeth line  c2c  Southeastern and Thameslink services are accepting tickets via any reasonable route. ,True
 2026-09-17 14:50:36,Central,Central Line: Minor delays due to train cancellations. ,True
 2026-09-17 14:50:36,Jubilee,Jubilee Line: Severe delays due to an earlier faulty train at Westminster. London Buses  Mildmay line  DLR  Elizabeth line  c2c  Southeastern and Thameslink services are accepting tickets via any reasonable route. ,True
+2026-09-17 18:45:36,Central,Central Line: Severe delays due to an earlier signal failure at White City. Tickets being London Buses  Liberty Line  Elizabeth Line  Chiltern  Great Western and Greater Angila services.  ,True
+2026-09-17 18:45:36,District,District Line: Severe delays between Upminster and Tower Hill while we respond to a fire alert at Dagenham East. Tickets are being accepted on London Buses  London Overground  C2C and Elizabeth line services. GOOD SERVICE on the rest of the line. ,True
+2026-09-17 18:45:36,Jubilee,Jubilee Line: Minor delays due to an earlier faulty train at Westminster.  ,True
+2026-09-17 18:45:36,Tram,London Tramlink: No service between Reeves Corner and East Croydon due to a broken down Bus at West Croydon. GOOD SERVICE on all other Tram routes. ,True
