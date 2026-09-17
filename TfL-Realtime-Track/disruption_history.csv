@@ -11270,3 +11270,5 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-09-17 05:12:56,Circle,Circle Line: Minor delays due to train cancellations. ,True
 2026-09-17 10:00:10,Central,Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. ,True
 2026-09-17 10:00:10,Jubilee,Jubilee Line: No service between London Bridge and Green Park and SEVERE DELAYS on the rest of the line while we fix a faulty train at Westminster. London Buses  Mildmay line  DLR  Elizabeth line  c2c  Southeastern and Thameslink services are accepting tickets via any reasonable route. ,True
+2026-09-17 14:50:36,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-09-17 14:50:36,Jubilee,Jubilee Line: Severe delays due to an earlier faulty train at Westminster. London Buses  Mildmay line  DLR  Elizabeth line  c2c  Southeastern and Thameslink services are accepting tickets via any reasonable route. ,True

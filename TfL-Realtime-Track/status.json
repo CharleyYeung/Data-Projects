@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: No service between London Bridge and Green Park and SEVERE DELAYS on the rest of the line while we fix a faulty train at Westminster. London Buses, Mildmay line, DLR, Elizabeth line, c2c, Southeastern and Thameslink services are accepting tickets via any reasonable route. "
+        "reason": "Jubilee Line: Severe delays due to an earlier faulty train at Westminster. London Buses, Mildmay line, DLR, Elizabeth line, c2c, Southeastern and Thameslink services are accepting tickets via any reasonable route. "
     },
     "Liberty": {
         "is_disrupted": false,
