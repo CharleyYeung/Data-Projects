@@ -11309,3 +11309,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-09-18 17:13:44,Central,Central Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses  Elizabeth line  Liberty line  Great Western Railway  Chiltern Railways and Greater Anglia.  ,True
 2026-09-18 17:13:44,Jubilee,Jubilee Line: Minor delays due to train cancellations. ,True
 2026-09-18 17:13:44,Mildmay,Mildmay Line: Minor delays due to a vehicle colliding with a level crossing in the Shepherd's Bush area and train cancellations.  ,True
+2026-09-18 19:38:27,Central,Central Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses  Elizabeth line  Liberty line  Great Western Railway  Chiltern Railways and Greater Anglia.  ,True
+2026-09-18 19:38:27,Hammersmith & City,Hammersmith and City Line: Severe delays due to train cancellations. Tickets being accepted on London Buses  Mildmay line  DLR and Elizabeth line via any reasonable routes.   ,True
+2026-09-18 19:38:27,Jubilee,Jubilee Line: Minor delays due to train cancellations. ,True
+2026-09-18 19:38:27,Mildmay,Mildmay Line: Minor delays due to train cancellations.  ,True
