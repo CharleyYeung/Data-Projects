@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Minor delays due to train cancellations.  "
     },
     "Central": {
         "is_disrupted": false,
@@ -24,12 +24,12 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Severe delays due to train cancellations. London Buses are accepting tickets via any reasonable route. "
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to an earlier signal failure at Bond Street.  "
+        "reason": "Jubilee Line: Minor delays due to train cancellations. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Watford, and between Harrow-on-the-Hill and Aldgate southbound only due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
