@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Minor delays while we fix a track fault at Oxford Circus.  "
     },
     "Central": {
         "is_disrupted": false,
@@ -36,12 +36,12 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "LIONESS LINE: Sunday 20 September, until 1615, no service between Willesden Junction and Watford Junction. Use BAKERLOO LINE services between Willesden Junction and Harrow & Wealdstone. Special bus service 720 operates between Harrow Bus Station and Watford Junction via Harrow & Wealdstone, Headstone Lane, Hatch End (Harrow Arts Centre), Carpenders Park (Prestwick Road), Bushey (Eastbury Road) and Watford High Street. PLEASE NOTE: At this time, there will be no LONDON NORTH WESTERN RAILWAY services between Euston and Watford Junction, or SOUTHERN services between Shepherds Bush and Watford Junction."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due train cancellations.  "
     },
     "Waterloo & City": {
         "is_disrupted": true,
