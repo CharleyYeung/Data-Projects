@@ -11529,3 +11529,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-09-23 09:41:48,Northern,Northern Line: Minor delays due to an earlier signal failure in the Battersea area and an earlier customer incident at Moorgate. ,True
 2026-09-23 09:41:48,Windrush,Windrush Line: No service between New Cross Gate and Crystal Palace/West Croydon  and SEVERE DELAYS between New Cross Gate and Highbury & Islington while we fix a signal failure at Norwood Junction. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. ,True
 2026-09-23 14:26:35,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations.  ,True
+2026-09-23 18:30:31,Bakerloo,Bakerloo Line: Minor delays due to an earlier customer incident at Embankment.  ,True
+2026-09-23 18:30:31,Central,Central Line: Minor delays while we help a person ill on a train.  ,True
+2026-09-23 18:30:31,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge while we deal with a signalling problem. GOOD service on the rest of the line. ,True
+2026-09-23 18:30:31,Weaver,Weaver Line: No service between Cheshunt and Edmonton Green while we respond to a fire alert. GOOD SERVICE on the rest of the line. ,True
