@@ -11533,3 +11533,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-09-23 18:30:31,Central,Central Line: Minor delays while we help a person ill on a train.  ,True
 2026-09-23 18:30:31,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge while we deal with a signalling problem. GOOD service on the rest of the line. ,True
 2026-09-23 18:30:31,Weaver,Weaver Line: No service between Cheshunt and Edmonton Green while we respond to a fire alert. GOOD SERVICE on the rest of the line. ,True
+2026-09-23 21:47:14,Central,Central Line: Minor delays due to to train cancellations.  ,True
+2026-09-23 21:47:14,Circle,Circle Line: Severe delays due to an earlier points failure at Tower Hill.  ,True
+2026-09-23 21:47:14,District,District Line: Severe delays due to an earlier points failure at Tower Hill. London buses are accepting tickets via any reasonable route. ,True
+2026-09-23 21:47:14,Hammersmith & City,Hammersmith and City Line: Severe delays due to an earlier points failure at Tower Hill.  ,True
