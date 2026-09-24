@@ -11545,3 +11545,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-09-24 04:50:24,District,District Line: Minor delays between Earl's Court and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line. ,True
 2026-09-24 04:50:24,Jubilee,Jubilee Line: Severe delays following a late finish of engineering work. London Buses  Mildmay Line  DLR and Elizabeth Line are accepting tickets via any reasonable route. ,True
 2026-09-24 04:50:24,Waterloo & City,Waterloo and City Line: Service will resume at 06:00. ,True
+2026-09-24 09:41:00,Central,Central Line: Severe delays due to an earlier signal failure at Leytonstone. Tickets will be accepted on London Buses  Liberty line  Chiltern  Great Western Railway and Elizabeth line via reasonable routes. ,True
+2026-09-24 09:41:00,District,District Line: Minor delays due to train cancellations. ,True
+2026-09-24 09:41:00,Northern,Northern Line: Minor delays between Camden Town and Kennington following a late finish of engineering work. GOOD SERVICE on the rest of the line. ,True
+2026-09-24 09:41:00,Victoria,Victoria Line: Minor delays due to an earlier faulty train at Pimlico.  ,True
