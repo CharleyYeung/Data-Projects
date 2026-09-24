@@ -9,11 +9,11 @@
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Severe delays due to an earlier points failure at Tower Hill.  "
+        "reason": "Circle Line: Minor delays due to an earlier points failure at Tower Hill.  "
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays due to an earlier points failure at Tower Hill. London buses are accepting tickets via any reasonable route. "
+        "reason": "District Line: Severe delays due to an earlier points failure at Tower Hill. London Buses are accepting tickets via any reasonable route. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -68,8 +68,8 @@
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Service will resume at 06:00. "
     },
     "Weaver": {
         "is_disrupted": false,
