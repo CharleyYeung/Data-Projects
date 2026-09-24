@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham due to train cancellations. (The next train from Amersham southbound will be at 15:52.) GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -56,8 +56,8 @@
         "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: Minor delays while we fix a signal failure at South Tottenham. "
     },
     "Tram": {
         "is_disrupted": false,
@@ -72,8 +72,8 @@
         "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: No service between Hackney Downs and Enfield Town / Cheshunt while we remove an object from the overhead power lines at Edmonton Green. MINOR DELAYS on the rest of the line while we fix a signal failure at South Tottenham. London Underground are accepting tickets via any reasonable route.  "
     },
     "Windrush": {
         "is_disrupted": false,

@@ -11551,3 +11551,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-09-24 09:41:00,Victoria,Victoria Line: Minor delays due to an earlier faulty train at Pimlico.  ,True
 2026-09-24 14:27:10,Central,Central Line: Minor delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due train cancellations. GOOD SERVICE on the rest of the line. ,True
 2026-09-24 14:27:10,Metropolitan,Metropolitan Line: Minor delays between Moor Park and Amersham due to train cancellations. (The next train from Amersham southbound will be at 15:52.) GOOD SERVICE on the rest of the line.  ,True
+2026-09-24 18:33:57,Central,Central Line: Minor delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-09-24 18:33:57,Suffragette,Suffragette Line: Minor delays while we fix a signal failure at South Tottenham. ,True
+2026-09-24 18:33:57,Weaver,Weaver Line: No service between Hackney Downs and Enfield Town / Cheshunt while we remove an object from the overhead power lines at Edmonton Green. MINOR DELAYS on the rest of the line while we fix a signal failure at South Tottenham. London Underground are accepting tickets via any reasonable route.  ,True
