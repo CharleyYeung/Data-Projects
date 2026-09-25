@@ -11562,3 +11562,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-09-25 04:59:48,Mildmay,Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Shepherd's Bush until 06:15 due to planned engineering work.,True
 2026-09-25 15:15:26,Bakerloo,Bakerloo Line: Minor delays due to train cancellations.  ,True
 2026-09-25 15:15:26,Jubilee,Jubilee Line: Minor delays due to train cancellations.  ,True
+2026-09-25 19:16:50,Central,Central Line: Minor delays between White City and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
+2026-09-25 19:16:50,Elizabeth line,Minor delays between Paddington and Heathrow Terminals / Reading due to an earlier trespasser on the track at Slough. GOOD SERVICE on the rest of the line.  ,True
+2026-09-25 19:16:50,Jubilee,Jubilee Line: Severe delays due to train cancellations. ,True
+2026-09-25 19:16:50,Victoria,Victoria Line: Severe delays due to a person taken ill on a train earlier at Oxford Circus. ,True
