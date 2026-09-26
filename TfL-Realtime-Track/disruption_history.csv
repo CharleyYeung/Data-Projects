@@ -11567,3 +11567,19 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-09-25 19:16:50,Jubilee,Jubilee Line: Severe delays due to train cancellations. ,True
 2026-09-25 19:16:50,Victoria,Victoria Line: Severe delays due to a person taken ill on a train earlier at Oxford Circus. ,True
 2026-09-25 22:36:39,Victoria,Victoria Line: Severe delays due to an earlier person ill on a train at Oxford Circus. ,True
+2026-09-26 00:53:19,Bakerloo,Bakerloo Line: Service will resume later this morning. ,True
+2026-09-26 00:53:19,Central,CENTRAL LINE: Saturday 26 September  between 0210 and 0530  no Night Tube service between Marble Arch and Loughton / Hainault (via Newbury Park). Replacement bus service CL5 operates between Stratford City Bus Station (for Stratford) and Loughton via Leyton  Leytonstone (eastbound buses serve Leytonstone High Road instead)  Snaresbrook  South Woodford  Woodford and Buckhurst Hill. Use Night Bus N8 for Wanstead  Redbridge  Gants Hill  Barkingside  Fairlop (Barkingside  Fullwell Cross) and Hainault.,True
+2026-09-26 00:53:19,Circle,Circle Line: Service will resume later this morning. ,True
+2026-09-26 00:53:19,District,District Line: Service will resume later this morning. ,True
+2026-09-26 00:53:19,DLR,Docklands Light Railway: Service will resume later this morning. ,True
+2026-09-26 00:53:19,Elizabeth line,Service will resume later this morning. ,True
+2026-09-26 00:53:19,Hammersmith & City,Hammersmith and City Line: Service will resume later this morning. ,True
+2026-09-26 00:53:19,Liberty,Liberty Line: Service will resume later this morning. ,True
+2026-09-26 00:53:19,Lioness,Lioness Line: Service will resume later this morning. ,True
+2026-09-26 00:53:19,Metropolitan,Metropolitan Line: Service will resume later this morning. ,True
+2026-09-26 00:53:19,Mildmay,Mildmay Line: Service will resume later this morning. ,True
+2026-09-26 00:53:19,Piccadilly,PICCADILLY LINE: From 0200 Saturday 26 and all day Sunday 27 September (including Friday and Saturday Night Tube)  no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow. Use DISTRICT LINE trains between Central London and Acton Town / Ealing Common and METROPOLITAN LINE trains between Rayners Lane and Uxbridge. Use ELIZABETH LINE trains for travel between Central London and Heathrow. Replacement buses operate.,True
+2026-09-26 00:53:19,Suffragette,Suffragette Line: Service will resume later this morning. ,True
+2026-09-26 00:53:19,Tram,London Tramlink: Service will resume later this morning. ,True
+2026-09-26 00:53:19,Waterloo & City,Waterloo and City Line: Service will resume at 06:00 on Monday. ,True
+2026-09-26 00:53:19,Weaver,Weaver Line: Service will resume later this morning. There will be no service between Hackney Downs and Enfield Town / Cheshunt due to planned engineering work. ,True
