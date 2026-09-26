@@ -1,51 +1,51 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Service will resume later this morning. "
-    },
-    "Central": {
-        "is_disrupted": true,
-        "reason": "CENTRAL LINE: Saturday 26 September, between 0210 and 0530, no Night Tube service between Marble Arch and Loughton / Hainault (via Newbury Park). Replacement bus service CL5 operates between Stratford City Bus Station (for Stratford) and Loughton via Leyton, Leytonstone (eastbound buses serve Leytonstone High Road instead), Snaresbrook, South Woodford, Woodford and Buckhurst Hill. Use Night Bus N8 for Wanstead, Redbridge, Gants Hill, Barkingside, Fairlop (Barkingside, Fullwell Cross) and Hainault."
-    },
-    "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Service will resume later this morning. "
-    },
-    "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Service will resume later this morning. "
-    },
-    "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: Service will resume later this morning. "
-    },
-    "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Service will resume later this morning. "
-    },
-    "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Service will resume later this morning. "
-    },
-    "Jubilee": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
-    "Liberty": {
+    "Central": {
         "is_disrupted": true,
-        "reason": "Liberty Line: Service will resume later this morning. "
+        "reason": "CENTRAL LINE: Saturday 26 September & Sunday 27 September, no service (including Saturday Night Tube) between Liverpool Street and Woodford / Newbury Park. Replacement buses operate. For Night journeys to Wanstead, Redbridge and Gants Hill, please use Night Bus Route N8."
+    },
+    "Circle": {
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays due to train cancellations.  "
+    },
+    "District": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
+    },
+    "DLR": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
+    },
+    "Elizabeth line": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
+    },
+    "Hammersmith & City": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
+    },
+    "Jubilee": {
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Severe delays due to an earlier trespasser on the track at Dollis Hill. London Buses, Mildmay Line, DLR, Elizabeth Line, C2C, Southeastern, and Thameslink are accepting tickets via any reasonable route. "
+    },
+    "Liberty": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Service will resume later this morning. "
+        "reason": "Metropolitan Line: Severe delays due to an earlier trespasser on the track at Dollis Hill. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways & Thameslink.  "
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
@@ -57,11 +57,11 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: Service will resume later this morning. "
+        "reason": "Suffragette Line: No service between Barking and Barking Riverside due to points failure at Barking. GOOD SERVICE on the rest of the line.  "
     },
     "Tram": {
-        "is_disrupted": true,
-        "reason": "London Tramlink: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Victoria": {
         "is_disrupted": false,
@@ -69,11 +69,11 @@
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
         "is_disrupted": true,
-        "reason": "Weaver Line: Service will resume later this morning. There will be no service between Hackney Downs and Enfield Town / Cheshunt due to planned engineering work. "
+        "reason": "WEAVER LINE: Saturday 26 September, all day, and Sunday 27 September, from 1015, no service between Hackney Downs and Cheshunt / Enfield Town. The limited number of GREATER ANGLIA and STANSTED EXPRESS trains which usually stop at Seven Sisters will stop at Tottenham Hale instead. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. If travelling to the Big Bang concert at Tottenham Hotspur Stadium, please use Victoria line trains to/from Seven Sisters or Tottenham Hale."
     },
     "Windrush": {
         "is_disrupted": false,
