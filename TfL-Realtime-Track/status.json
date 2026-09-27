@@ -37,7 +37,7 @@
     },
     "Lioness": {
         "is_disrupted": true,
-        "reason": "Lioness Line: No service between Willesden Junction and Watford Junction, and SEVERE DELAYS on the rest of the line while we fix a track fault at Hatch End. London Underground are accepting tickets via any reasonable route.  "
+        "reason": "LIONESS LINE: Sunday 27 September, until 1200 and from 2030, no service between Kilburn High Road and Euston. Please use local London Buses and London Underground services."
     },
     "Metropolitan": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Minor delays between Willesden Junction and Clapham Junction due to a fire alert near Wandsworth Road. GOOD SERVICE on the rest of the line. "
+        "reason": "MILDMAY LINE: Sunday 27 September, after 2215, no service between Gospel Oak and Stratford. Rail replacement buses will run as follows: Service S: Camden Road - Holloway Road (Piccadilly line) - Highbury & Islington - Canonbury - Dalston Junction (for Dalston Kingsland) - Hackney Central - Homerton - Hackney Wick - Stratford. For Caledonian Road & Barnsbury use local bus route 274 to/from Camden Road or walk to/from Highbury & Islington. Some buses continue on request westbound only from Camden Road as follows: Camden Road - Kentish Town West - Gospel Oak (bus stop in Southampton Road) - Hampstead Heath - Finchley Road Tube (for Finchley Road & Frognal) - West Hampstead - Brondesbury (bus stops in Kilburn High Road) - Queen's Park (walk/local buses for Brondesbury Park) - Kensal Rise - Willesden Junction - Acton Central - South Acton - Gunnersbury - Kew Gardens (Royal Botanic Gardens) - Richmond. Last through trains: Richmond to Stratford 2110; Camden Road to Stratford 2203; Stratford to Richmond 2201; Stratford to Clapham Junction 22:08"
     },
     "Northern": {
         "is_disrupted": false,
