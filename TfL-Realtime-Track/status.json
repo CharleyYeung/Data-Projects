@@ -1,51 +1,51 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Service will resume later this morning.\r\n "
     },
     "Central": {
         "is_disrupted": true,
         "reason": "CENTRAL LINE: Saturday 26 September & Sunday 27 September, no service (including Saturday Night Tube) between Liverpool Street and Woodford / Newbury Park. Replacement buses operate. For Night journeys to Wanstead, Redbridge and Gants Hill, please use Night Bus Route N8."
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Service will resume later this morning.\r\n "
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Service will resume later this morning.\r\n "
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: Service will resume later this morning. There will be no service between Tower Gateway and Shadwell due to planned engineering work.\r\n "
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "ELIZABETH LINE: Sunday 27 September, between 0120 and 0800, no service between West Drayton and Maidenhead. Replacement bus service W1 operates between Hayes & Harlington and Slough via Langley (not serving Iver), and replacement bus service W3 operates between Slough and Maidenhead via Burnham and Taplow."
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Service will resume later this morning.\r\n "
     },
     "Jubilee": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Liberty": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Liberty Line: Service will resume later this morning.\r\n "
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Service will resume later this morning. There will be no service between Euston and Kilburn High Road before 12:00 and after 20:30 due to planned engineering work.\r\n "
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Service will resume later this morning.\r\n "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Camden Road and Stratford after 22:15 due to planned engineering work.\r\n "
     },
     "Northern": {
         "is_disrupted": false,
@@ -56,24 +56,24 @@
         "reason": "PICCADILLY LINE: From 0200 Saturday 26 and all day Sunday 27 September (including Friday and Saturday Night Tube), no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow. Use DISTRICT LINE trains between Central London and Acton Town / Ealing Common and METROPOLITAN LINE trains between Rayners Lane and Uxbridge. Use ELIZABETH LINE trains for travel between Central London and Heathrow. Replacement buses operate."
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: Service will resume later this morning.\r\n "
     },
     "Tram": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "London Tramlink: Service will resume later this morning.\r\n "
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
     },
     "Weaver": {
         "is_disrupted": true,
-        "reason": "WEAVER LINE: Saturday 26 September, all day, and Sunday 27 September, from 1015, no service between Hackney Downs and Cheshunt / Enfield Town. The limited number of GREATER ANGLIA and STANSTED EXPRESS trains which usually stop at Seven Sisters will stop at Tottenham Hale instead. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. If travelling to the Big Bang concert at Tottenham Hotspur Stadium, please use Victoria line trains to/from Seven Sisters or Tottenham Hale."
+        "reason": "Weaver Line: Service will resume later this morning. There will be no service between Hackney Downs and Enfield Town/Cheshunt all day and between Liverpool Street and Chingford until 10:15 due to planned engineering work.\r\n "
     },
     "Windrush": {
         "is_disrupted": false,
