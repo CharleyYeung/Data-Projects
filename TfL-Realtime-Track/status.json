@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: No service between Earl's Court and Kensington (Olympia) due to train cancellations. Tickets are being accepted on the Mildmay line (West Brompton - Willesden Junction) and on London Buses. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": true,
@@ -36,12 +36,12 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: No service between Willesden Junction and Watford Junction, and SEVERE DELAYS on the rest of the line while we fix a track fault at Hatch End. London Underground are accepting tickets via any reasonable route.  "
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to a track fault at Brixton. "
+        "reason": "Victoria Line: Severe delays due to a track fault at Brixton. Tickets will be accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, South Western Railway, Southeastern and Greater Anglia. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
