@@ -36,16 +36,16 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "LIONESS LINE: Sunday 27 September, until 1200 and from 2030, no service between Kilburn High Road and Euston. Please use local London Buses and London Underground services."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Minor delays between Willesden Junction and Clapham Junction due to a fire alert near Wandsworth Road. GOOD SERVICE on the rest of the line. "
     },
     "Northern": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: No service between Victoria and Brixton while we conduct a track inspection at Brixton. MINOR DELAYS on the rest of the line. London Buses are accepting tickets via any reasonable route. "
+        "reason": "Victoria Line: Minor delays due to a track fault at Brixton. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
@@ -76,7 +76,7 @@
         "reason": "WEAVER LINE: Saturday 26 September, all day, and Sunday 27 September, from 1015, no service between Hackney Downs and Cheshunt / Enfield Town. The limited number of GREATER ANGLIA and STANSTED EXPRESS trains which usually stop at Seven Sisters will stop at Tottenham Hale instead. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. If travelling to the Big Bang concert at Tottenham Hotspur Stadium, please use Victoria line trains to/from Seven Sisters or Tottenham Hale."
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: No service between Wandsworth Road and Clapham Junction due to a fire alert near Wandsworth Road. GOOD SERVICE on the rest of the line.  "
     }
 }
