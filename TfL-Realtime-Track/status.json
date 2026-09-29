@@ -48,8 +48,8 @@
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: Minor delays between Camden Town and Kennington southbound only (via Bank) due to an earlier fire alert at Angel. GOOD SERVICE on the rest of the line.  "
     },
     "Piccadilly": {
         "is_disrupted": false,
@@ -64,12 +64,12 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to infrastructure damage at Brixton. "
     },
     "Waterloo & City": {
-        "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Weaver": {
         "is_disrupted": false,
