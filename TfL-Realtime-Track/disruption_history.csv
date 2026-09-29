@@ -11714,3 +11714,8 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-09-29 04:21:40,Waterloo & City,Waterloo and City Line: Service will resume at 06:00. ,True
 2026-09-29 11:01:48,Northern,Northern Line: Minor delays between Camden Town and Kennington southbound only (via Bank) due to an earlier fire alert at Angel. GOOD SERVICE on the rest of the line.  ,True
 2026-09-29 11:01:48,Victoria,Victoria Line: Minor delays due to infrastructure damage at Brixton. ,True
+2026-09-29 16:52:53,Bakerloo,Bakerloo Line: No service between Piccadilly Circus and Elephant & Castle while we respond to a fire alert at Waterloo. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses  Lioness line  London Northwestern Railway and Thameslink. ,True
+2026-09-29 16:52:53,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-09-29 16:52:53,Northern,Northern Line: Minor delays due to train cancellations.  ,True
+2026-09-29 16:52:53,Victoria,Victoria Line: Severe delays due to infrastructure damage at Brixton. Tickets are being accepted on  London Buses  Weaver Line  Suffragette Line  Great Northern  Thameslink  Greater Anglia  South Western Railway and Southeastern services via any reasonable route. ,True
+2026-09-29 16:52:53,Waterloo & City,Waterloo and City Line: No service while we respond to a fire alert at Waterloo.  ,True

@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: No service between Piccadilly Circus and Elephant & Castle while we respond to a fire alert at Waterloo. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Lioness line, London Northwestern Railway and Thameslink. "
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Minor delays between Camden Town and Kennington southbound only (via Bank) due to an earlier fire alert at Angel. GOOD SERVICE on the rest of the line.  "
+        "reason": "Northern Line: Minor delays due to train cancellations.  "
     },
     "Piccadilly": {
         "is_disrupted": false,
@@ -65,11 +65,11 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to infrastructure damage at Brixton. "
+        "reason": "Victoria Line: Severe delays due to infrastructure damage at Brixton. Tickets are being accepted on, London Buses, Weaver Line, Suffragette Line, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services via any reasonable route. "
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: No service while we respond to a fire alert at Waterloo.  "
     },
     "Weaver": {
         "is_disrupted": false,
