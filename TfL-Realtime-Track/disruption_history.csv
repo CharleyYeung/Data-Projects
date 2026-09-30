@@ -11744,3 +11744,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-09-30 11:49:28,Elizabeth line,Severe delays between Abbey Wood and Heathrow Terminals / Reading while we conduct a safety inspection of the track. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.  ,True
 2026-09-30 11:49:28,Jubilee,Jubilee Line: Minor delays while we respond to a fire alert at Kilburn. ,True
 2026-09-30 11:49:28,Victoria,Victoria Line: Severe delays due to infrastructure damage at Brixton. Tickets will be accepted on  London Buses  Weaver Line  Suffragette Line  Great Northern  Thameslink  South Western Railway and Southeastern via any reasonable route.   ,True
+2026-09-30 17:30:06,Central,Central Line: Minor delays due to an earlier faulty train at Stratford.  ,True
+2026-09-30 17:30:06,Jubilee,Jubilee Line: Minor delays due to an earlier fire alert at Kilburn. ,True
+2026-09-30 17:30:06,Victoria,Victoria Line: Severe delays due to a track fault at Brixton. Tickets will be accepted on  London Buses  Weaver Line  Suffragette Line  Great Northern  Thameslink  South Western Railway and Southeastern via any reasonable route.   ,True
