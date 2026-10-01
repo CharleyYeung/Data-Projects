@@ -11769,3 +11769,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-10-01 00:50:05,Waterloo & City,Waterloo and City Line: Service will resume at 06:00. ,True
 2026-10-01 00:50:05,Weaver,Weaver Line: Service will resume later this morning. ,True
 2026-10-01 00:50:05,Windrush,Windrush Line: Service will resume later this morning. ,True
+2026-10-01 06:46:28,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-10-01 06:46:28,Northern,Northern Line: Minor delays due to train cancellations. ,True
+2026-10-01 06:46:28,Victoria,Victoria Line: Severe delays due to a track fault at Brixton. Tickets are being accepted on  London Buses  London Trams  Southeastern  Thameslink and South Western Railway services via any acceptable route. ,True
