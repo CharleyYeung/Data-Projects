@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays between White City and Ealing Broadway / West Ruislip and between Leytonstone and Epping via Woodford / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier signal failure at Rayners Lane. London Buses are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -64,16 +64,16 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Severe delays due to a track fault at Brixton. Tickets are being accepted on London Buses, Weaver Line, Suffragette Line, Great Northern, Greater Anglia, Thameslink, South Western Railway and Southeastern via any reasonable route. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "WEAVER LINE: Monday 28, Tuesday 29, Wednesday 30 September and Thursday 1 October, after 2245, no service between Hackney Downs and Chingford. Last trains are at 2231 from Liverpool Street to Chingford and at 2253 from Chingford to Liverpool Street. Replacement bus service L3 operates between Hackney Downs and Chingford via Clapton, St James Street, Walthamstow Central, Wood Street and Highams Park. The last three northbound buses start from Liverpool Street at 0014 0044 and 0114 and also serve Bethnal Green, Cambridge Heath and London Fields (Mare Street). At Liverpool Street, buses will serve stops on Wormwood Street instead of Bishopsgate, due to roadworks."
     },
     "Windrush": {
         "is_disrupted": false,
