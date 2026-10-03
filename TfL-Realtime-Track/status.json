@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Minor delays between Earl's Court and Kensington (Olympia) due to train cancellations and MINOR DELAYS between Earl's Court and Barking whilst we fix faulty communications equipment. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -24,12 +24,12 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Minor delays due to train cancellations.  "
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "JUBILEE LINE: From 0430 Saturday 3 until 0130 Sunday 4 October, no service between Green Park and Canary Wharf. If travelling between Central London and North Greenwich, please travel via Stratford."
     },
     "Liberty": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Severe delays between Moor Park and Amersham/Chesham due to train cancellations. The next southbound departure from Amersham will be at 06:48 and the next southbound departure from Chesham will be at 06:40. Tickets being accepted on Chiltern services. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -61,15 +61,15 @@
     },
     "Tram": {
         "is_disrupted": true,
-        "reason": "London Trams: From 22:00 Friday 2 October, no service on London Trams."
+        "reason": "London Trams: Saturday 3 until Wednesday 7 October, no eastbound service Wandle Park - Centrale and westbound service Church Street - Wandle Park. Also no service between Arena and Elmers End on Sunday 4 October"
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Severe delays due to a track fault at Brixton. London Buses, Weaver line, Suffragette line, Great Northern, Thameslink and Greater Anglia, South Western Railway and Southeastern are accepting valid tickets via any reasonable route. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
         "is_disrupted": false,
