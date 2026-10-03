@@ -60,16 +60,16 @@
         "reason": "Normal Operation"
     },
     "Tram": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "London Trams: From 22:00 Friday 2 October, no service on London Trams."
     },
     "Victoria": {
         "is_disrupted": true,
         "reason": "Victoria Line: Severe delays due to a track fault at Brixton. London Buses, Weaver line, Suffragette line, Great Northern, Thameslink and Greater Anglia, South Western Railway and Southeastern are accepting valid tickets via any reasonable route. "
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
     },
     "Weaver": {
         "is_disrupted": false,
