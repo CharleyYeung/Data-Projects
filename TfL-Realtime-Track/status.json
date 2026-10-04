@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Minor delays between Ealing Broadway and Turnham Green while we deal with a signalling problem at Ealing Common. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": true,
@@ -24,8 +24,8 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Minor delays eastbound only while we fix a faulty train at Moorgate. GOOD SERVICE on the rest of the line. "
     },
     "Jubilee": {
         "is_disrupted": true,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge/ Aldgate and between Moor Park and Amersham due to train cancellations. After the 18:18 departure from Amersham, the next southbound train will be at 18:48. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Minor delays between Wembley Park and Aldgate southbound only while we fix a faulty train at Moorgate. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
