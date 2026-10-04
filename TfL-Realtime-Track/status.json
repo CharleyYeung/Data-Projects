@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays due to train cancellations.\r\n  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -40,16 +40,16 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Watford /Uxbridge/ Aldgate and MINOR DELAYS between Moor Park and Amersham / Chesham due to an earlier track fire at Harrow-on-the-Hill.\r\nTickets are being accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink. "
     },
     "Mildmay": {
         "is_disrupted": true,
         "reason": "MILDMAY LINE: Sunday 4 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200 and after 2100."
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: Minor delays between Camden Town and Kennington southbound only via Charing Cross while fix a faulty train at Euston. "
     },
     "Piccadilly": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "London Trams: Sunday 4 October, no service between Arena and Elmers End"
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "VICTORIA LINE: From 1930 Saturday 3 until 1000 Sunday 4 October, no service between Victoria and Brixton. Please use London Buses services or National Rail services between Victoria and Brixton."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": true,
