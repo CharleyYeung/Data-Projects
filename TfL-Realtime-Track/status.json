@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Minor delays between Ealing Broadway and Turnham Green while we deal with a signalling problem at Ealing Common. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": true,
@@ -41,15 +41,15 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Watford /Uxbridge/ Aldgate and MINOR DELAYS between Moor Park and Amersham / Chesham due to an earlier track fire at Harrow-on-the-Hill.\r\nTickets are being accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink. "
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge/ Aldgate and between Moor Park and Amersham due to train cancellations. After the 18:18 departure from Amersham, the next southbound train will be at 18:48. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
         "reason": "MILDMAY LINE: Sunday 4 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200 and after 2100."
     },
     "Northern": {
-        "is_disrupted": true,
-        "reason": "Northern Line: Minor delays between Camden Town and Kennington southbound only via Charing Cross while fix a faulty train at Euston. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Piccadilly": {
         "is_disrupted": false,
