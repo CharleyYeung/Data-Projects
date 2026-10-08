@@ -1,27 +1,27 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Severe delays due to train cancellations. London Buses, Lioness Line, London Northwestern Railway and Thameslink are accepting tickets via any reasonable route. "
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays between Loughton and Epping while we fix a signal failure at Epping. GOOD SERVICE on the rest of the line. "
     },
     "Circle": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Minor delays between Earl's Court and Ealing Broadway / Richmond / Kensington (Olympia), between Edgware Road and Wimbledon and between Tower Hill and Upminster due to train cancellations. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Severe Delays between Paddington and Heathrow Airport / Reading while we fix a signal failure in the Paddington area. Tickets are being accepted on London Underground, Great Western Railway and South Western Railway. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -48,12 +48,12 @@
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: No service between Camden Town and Morden via Bank while we fix a signal failure at Stockwell. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Thameslink, Great Northern, South Western Railway and London Trams. "
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Minor delays due to an earlier signal failure at Arnos Grove.  "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -61,15 +61,15 @@
     },
     "Tram": {
         "is_disrupted": true,
-        "reason": "London Tramlink: Minor delays following a late finish of engineering works. "
+        "reason": "London Tramlink: No service between Addiscombe and Elmers End / Harrington Road due to a road traffic collision at Arena. GOOD SERVICE on other tram routes. "
     },
     "Victoria": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Severe delays due to train cancellations. Tickets will be accepted on London Buses. "
     },
     "Weaver": {
         "is_disrupted": false,
