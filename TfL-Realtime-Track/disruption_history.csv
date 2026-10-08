@@ -12002,3 +12002,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-10-08 13:25:45,Piccadilly,Piccadilly Line: Minor delays due to an earlier signal failure at Arnos Grove.  ,True
 2026-10-08 13:25:45,Tram,London Tramlink: No service between Addiscombe and Elmers End / Harrington Road due to a road traffic collision at Arena. GOOD SERVICE on other tram routes. ,True
 2026-10-08 13:25:45,Waterloo & City,Waterloo and City Line: Severe delays due to train cancellations. Tickets will be accepted on London Buses. ,True
+2026-10-08 19:20:58,Bakerloo,Bakerloo Line: Minor delays due to train cancellations.  ,True
+2026-10-08 19:20:58,Elizabeth line,Minor delays due to an earlier faulty train at Stratford.  ,True
+2026-10-08 19:20:58,Northern,Northern Line: Severe delays due to an earlier signal failure at Stockwell. Tickets are being accepted on London Buses  Thameslink  Great Northern  South Western Railway and London Trams. ,True

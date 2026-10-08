@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays due to train cancellations. London Buses, Lioness Line, London Northwestern Railway and Thameslink are accepting tickets via any reasonable route. "
+        "reason": "Bakerloo Line: Minor delays due to train cancellations.  "
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays between Loughton and Epping while we fix a signal failure at Epping. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": false,
@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Minor delays due to an earlier faulty train at Stratford.  "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -49,27 +49,27 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: No service between Camden Town and Morden via Bank while we fix a signal failure at Stockwell. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Thameslink, Great Northern, South Western Railway and London Trams. "
+        "reason": "Northern Line: Severe delays due to an earlier signal failure at Stockwell. Tickets are being accepted on London Buses, Thameslink, Great Northern, South Western Railway and London Trams. "
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: Minor delays due to an earlier signal failure at Arnos Grove.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Tram": {
-        "is_disrupted": true,
-        "reason": "London Tramlink: No service between Addiscombe and Elmers End / Harrington Road due to a road traffic collision at Arena. GOOD SERVICE on other tram routes. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Victoria": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": true,
-        "reason": "Waterloo and City Line: Severe delays due to train cancellations. Tickets will be accepted on London Buses. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Weaver": {
         "is_disrupted": false,
