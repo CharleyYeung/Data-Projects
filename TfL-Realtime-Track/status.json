@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays due to train cancellations.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -48,12 +48,12 @@
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": true,
-        "reason": "Northern Line: No service between Camden Town and High Barnet / Mill Hill East due to a late finish of engineering work. GOOD SERVICE on the rest of the line. "
-    },
-    "Piccadilly": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Piccadilly": {
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Severe delays between Acton Town and Cockfosters due to an earlier customer incident. Tickets are being accepted on London Buses and Great Northern services. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -65,11 +65,11 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to train cancellations. "
+        "reason": "Victoria Line: Minor delays due to train cancellations.  "
     },
     "Waterloo & City": {
-        "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Weaver": {
         "is_disrupted": false,
