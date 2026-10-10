@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays due to train cancellations. "
+        "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone while we fix faulty communications equipment at Elephant & Castle. Tickets will be accepted on London Buses, Lioness line, London Northwestern Railway and Thameslink services via reasonable routes. MINOR DELAYS on the rest of the line. "
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": true,
@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to an earlier faulty train at West Ham. Tickets are being accepted on London Buses, Mildmay Line, Elizabeth Line and C2C services. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "LIONESS LINE: Saturday 10 and Sunday 11 October, a reduced service will run between Kilburn High Road and Euston. On Saturday, between 0630 and 2030, trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 0715 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road. On Sunday, between 1130 and 2030,  trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 1215 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: Minor delays due to train cancellations. "
     }
 }
