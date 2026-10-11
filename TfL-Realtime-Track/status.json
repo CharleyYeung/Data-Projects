@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Severe delays due to an earlier customer incident. Tickets are being accepted on London Buses. "
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays between Woodford and Hainault while we fix a points failure at Hainault. GOOD SERVICE on the rest of the line.  "
     },
     "Circle": {
         "is_disrupted": true,
@@ -37,7 +37,7 @@
     },
     "Lioness": {
         "is_disrupted": true,
-        "reason": "LIONESS LINE: Saturday 10 and Sunday 11 October, a reduced service will run between Kilburn High Road and Euston. On Saturday, between 0630 and 2030, trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 0715 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road. On Sunday, between 1130 and 2030,  trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 1215 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road"
+        "reason": "Lioness Line: Minor delays due to an earlier customer incident at Willesden Junction. "
     },
     "Metropolitan": {
         "is_disrupted": false,
@@ -57,7 +57,7 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "SUFFRAGETTE LINE: Sunday 11 October, between 0845 and 2300, no service between Barking and Barking Riverside, please use local London Buses services."
+        "reason": "SUFFRAGETTE LINE: Sunday 11 October, the 2310 train from Gospel Oak to Barking Riverside will not run"
     },
     "Tram": {
         "is_disrupted": false,

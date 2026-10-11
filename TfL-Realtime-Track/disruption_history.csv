@@ -12109,3 +12109,13 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-10-11 18:15:23,Suffragette,SUFFRAGETTE LINE: Sunday 11 October  between 0845 and 2300  no service between Barking and Barking Riverside  please use local London Buses services.,True
 2026-10-11 18:15:23,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
 2026-10-11 18:15:23,Windrush,WINDRUSH LINE: Sunday 11 October  no service between Wandsworth Road and Clapham Junction. Trains are diverted to/from Battersea Park for SOUTHERN services to/from Clapham Junction.,True
+2026-10-11 22:14:00,Bakerloo,Bakerloo Line: Severe delays due to an earlier customer incident. Tickets are being accepted on London Buses. ,True
+2026-10-11 22:14:00,Central,Central Line: Minor delays between Woodford and Hainault while we fix a points failure at Hainault. GOOD SERVICE on the rest of the line.  ,True
+2026-10-11 22:14:00,Circle,CIRCLE LINE: Saturday 10 and Sunday 11 October  no service between Edgware Road and Aldgate (via Victoria),True
+2026-10-11 22:14:00,District,DISTRICT LINE: Saturday 10 and Sunday 11 October  no service between Edgware Road / Tower Hill and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury  Kew Gardens and Richmond. Replacement bus services operate.,True
+2026-10-11 22:14:00,DLR,DOCKLANDS LIGHT RAILWAY: Saturday 10 and Sunday 11 October  no service between Stratford International and Woolwich Arsenal. Please use local London Buses  London Underground and Elizabeth line services (for Woolwich) as no replacement bus services will operate.,True
+2026-10-11 22:14:00,Lioness,Lioness Line: Minor delays due to an earlier customer incident at Willesden Junction. ,True
+2026-10-11 22:14:00,Mildmay,MILDMAY LINE: Sunday 11 October  a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200.,True
+2026-10-11 22:14:00,Suffragette,SUFFRAGETTE LINE: Sunday 11 October  the 2310 train from Gospel Oak to Barking Riverside will not run,True
+2026-10-11 22:14:00,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
+2026-10-11 22:14:00,Windrush,WINDRUSH LINE: Sunday 11 October  no service between Wandsworth Road and Clapham Junction. Trains are diverted to/from Battersea Park for SOUTHERN services to/from Clapham Junction.,True
