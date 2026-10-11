@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": false,
@@ -21,62 +21,62 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Service will resume later this morning. "
+        "reason": "ELIZABETH LINE: Sunday 11 October, until 0815, no service between West Drayton and Slough. Replacement bus service W1 operates between Hayes & Harlington and Slough via West Drayton and Langley, not serving Iver."
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Liberty": {
-        "is_disrupted": true,
-        "reason": "Liberty Line: Service will resume later this morning. "
-    },
-    "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Service will resume later this morning. "
-    },
-    "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Service will resume later this morning. "
-    },
-    "Mildmay": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Lioness": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
+    },
+    "Metropolitan": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
+    },
+    "Mildmay": {
+        "is_disrupted": true,
+        "reason": "MILDMAY LINE: Sunday 11 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200."
     },
     "Northern": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays due to an earlier signalling problem at King's Cross St. Pancras.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: Service will resume later this morning. "
+        "reason": "SUFFRAGETTE LINE: Sunday 11 October, until 0945 and after 2300, no service between Gospel Oak and Barking Riverside. Please use local London Buses and London Underground services as no replacement bus services will operate for this closure."
     },
     "Tram": {
-        "is_disrupted": true,
-        "reason": "London Tramlink: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations. "
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
         "is_disrupted": true,
-        "reason": "Weaver Line: Service will resume later this morning. "
+        "reason": "WEAVER LINE: Sunday 11 October, until 1015, no service between Liverpool Street and Cheshunt / Chingford / Enfield Town. The limited number of GREATER ANGLIA and STANSTED EXPRESS trains which usually stop at Seven Sisters will stop at Tottenham Hale instead, and these trains will not serve Hackney Downs. Use London Underground connections between Central London and Seven Sisters / Hackney Downs."
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "Windrush Line: Minor delays due to train cancellations. "
+        "reason": "WINDRUSH LINE: Sunday 11 October, no service between Wandsworth Road and Clapham Junction. Trains are diverted to/from Battersea Park for SOUTHERN services to/from Clapham Junction."
     }
 }
