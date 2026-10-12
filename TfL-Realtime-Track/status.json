@@ -1,82 +1,82 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays due to an earlier customer incident. Tickets are being accepted on London Buses. "
+        "reason": "Bakerloo Line: Service will resume later this morning. "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays between Woodford and Hainault while we fix a points failure at Hainault. GOOD SERVICE on the rest of the line.  "
+        "reason": "Central Line: Service will resume later this morning. "
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "CIRCLE LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road and Aldgate (via Victoria)"
+        "reason": "Circle Line: Service will resume later this morning. "
     },
     "District": {
         "is_disrupted": true,
-        "reason": "DISTRICT LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road / Tower Hill and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate."
+        "reason": "District Line: Service will resume later this morning. "
     },
     "DLR": {
         "is_disrupted": true,
-        "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 10 and Sunday 11 October, no service between Stratford International and Woolwich Arsenal. Please use local London Buses, London Underground and Elizabeth line services (for Woolwich) as no replacement bus services will operate."
+        "reason": "Docklands Light Railway: Service will resume later this morning. "
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Service will resume later this morning. "
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Service will resume later this morning. "
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Service will resume later this morning. "
     },
     "Liberty": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Liberty Line: Service will resume later this morning. "
     },
     "Lioness": {
         "is_disrupted": true,
-        "reason": "Lioness Line: Minor delays due to an earlier customer incident at Willesden Junction. "
+        "reason": "Lioness Line: Service will resume later this morning. "
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Service will resume later this morning. "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "MILDMAY LINE: Sunday 11 October, a reduced service will run between Kensington (Olympia) and Clapham Junction. Trains will use platform 17 at Clapham Junction. Southern Railway services will not operate between Shepherds Bush and Watford Junction until 1200."
+        "reason": "Mildmay Line: Service will resume later this morning. "
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: Service will resume later this morning. "
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Service will resume at 06:00. "
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "SUFFRAGETTE LINE: Sunday 11 October, the 2310 train from Gospel Oak to Barking Riverside will not run"
+        "reason": "Suffragette Line: Service will resume later this morning. "
     },
     "Tram": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "London Tramlink: Service will resume later this morning. "
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Service will resume later this morning. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+        "reason": "Waterloo and City Line: Service will resume at 06:00. "
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: Service will resume later this morning. "
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "WINDRUSH LINE: Sunday 11 October, no service between Wandsworth Road and Clapham Junction. Trains are diverted to/from Battersea Park for SOUTHERN services to/from Clapham Junction."
+        "reason": "Windrush Line: Service will resume later this morning. "
     }
 }
