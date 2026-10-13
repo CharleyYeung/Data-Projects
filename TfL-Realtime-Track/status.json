@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways and Great Western Railway. MINOR DELAYS on the rest of the line. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -16,8 +16,8 @@
         "reason": "Normal Operation"
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: Severe delays between Stratford International and Bank / Woolwich Arsenal due to a faulty train at West Silvertown. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
     },
     "Elizabeth line": {
         "is_disrupted": false,
@@ -68,8 +68,8 @@
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Weaver": {
         "is_disrupted": false,
