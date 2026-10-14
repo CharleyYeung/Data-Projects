@@ -12179,3 +12179,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-10-14 02:02:47,Windrush,Windrush Line: Service will resume later this morning. ,True
 2026-10-14 09:53:36,Central,Central Line: Minor delays due to train cancellations. ,True
 2026-10-14 09:53:36,Victoria,Victoria Line: Minor delays due to train cancellations. ,True
+2026-10-14 14:50:42,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-10-14 14:50:42,Suffragette,Suffragette Line: Severe delays due to an earlier faulty freight train at Upper Holloway. Tickets will be accepted on London Underground via any reasonable route.  ,True
+2026-10-14 14:50:42,Tram,London Tramlink: Minor delays due to an earlier power failure. ,True
