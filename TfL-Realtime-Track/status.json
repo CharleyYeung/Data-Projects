@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "MILDMAY LINE: Friday 16 October, the 2159 train from Stratford to Richmond will terminate at Camden Road at 2219. The 2318 train from Richmond to Willesden Junction will not run"
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays while we help a person ill on a train at Arnos Grove. Tickets are being accepted on, London Buses, Elizabeth line, Weaver line and Great Northern services. "
+        "reason": "Piccadilly Line: Severe delays due to a customer incident at Arnos Grove. Tickets are being accepted on, London Buses, Elizabeth line, Weaver line and Great Northern services. "
     },
     "Suffragette": {
         "is_disrupted": false,
