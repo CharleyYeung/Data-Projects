@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Minor delays between Earl's Court and Wimbledon while we fix a track fault at Southfields. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
@@ -24,12 +24,12 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Severe delays due to train cancellations. Tickets being accepted by London Buses, DLR, Elizabeth Line and C2C via any reasonable route. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to earlier points failures at North Greenwich and Canary Wharf. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Minor delays due to an earlier points failure at Camden Town. All southbound trains from High Barnet will run via Bank, take the first train and change at Camden Town for the Charing Cross branch. "
+        "reason": "Northern Line: Severe delays between Morden and Camden Town via Bank / Charing Cross northbound only following a late finish of engineering work. London Buses, London Trams, Southeastern, Thameslink and South Western Railway are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
     },
     "Piccadilly": {
         "is_disrupted": false,
@@ -60,23 +60,23 @@
         "reason": "Normal Operation"
     },
     "Tram": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "London Tramlink: No service between Elmers End and Arena while we fix a track fault at Lebanon Road. GOOD SERVICE on other Tram routes. "
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": true,
         "reason": "Waterloo and City Line: Service will resume at 06:00. "
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "WEAVER LINE: Monday 12, Tuesday 13, Wednesday 14 and Thursday 15 October, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate."
-    },
-    "Windrush": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Windrush": {
+        "is_disrupted": true,
+        "reason": "Windrush Line: No service between New Cross Gate and West Croydon / Crystal Palace due to a late finish of engineering work. GOOD SERVICE on the rest of the line. "
     }
 }
