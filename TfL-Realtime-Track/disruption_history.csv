@@ -12240,3 +12240,11 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-10-16 09:27:09,Tram,London Tramlink: No service between Elmers End and Arena while we fix a track fault at Lebanon Road. GOOD SERVICE on other Tram routes. ,True
 2026-10-16 14:07:17,Tram,London Tramlink: No service between Elmers End and Arena while we fix a track fault at Lebanon Road. GOOD SERVICE on other Tram routes. ,True
 2026-10-16 14:07:17,Victoria,Victoria Line: Minor delays due to train cancellations. ,True
+2026-10-16 18:01:34,Circle,Circle Line: Minor delays clockwise only while we fix a faulty train at Farringdon. ,True
+2026-10-16 18:01:34,Hammersmith & City,Hammersmith and City Line: Minor delays eastbound only while we fix a faulty train at Farringdon. ,True
+2026-10-16 18:01:34,Metropolitan,Metropolitan Line: Severe delays between Harrow-on-the-Hill and Aldgate while we fix a faulty train at Farringdon. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.  ,True
+2026-10-16 18:01:34,Mildmay,Mildmay Line: Severe delays due to an earlier fault with the overhead power lines at Hackney Central. ,True
+2026-10-16 18:01:34,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Uxbridge due to earlier customer incident at King's Cross St. Pancras  and an earlier passenger ill on a train at Piccadilly Circus. GOOD SERVICE on the rest of the line. ,True
+2026-10-16 18:01:34,Tram,London Tramlink: No service between Elmers End and Arena while we fix a track fault at Lebanon Road. GOOD SERVICE on other Tram routes. ,True
+2026-10-16 18:01:34,Victoria,Victoria Line: Severe delays due to an earlier fire alert at King's Cross St. Pancras. Tickets are being accepted on London Buses  London Overground  Great Northern  Thameslink  Greater Anglia  South Western Railway and Southeastern services. ,True
+2026-10-16 18:01:34,Weaver,Weaver Line: Reduced service due to an earlier operational incident.  ,True
