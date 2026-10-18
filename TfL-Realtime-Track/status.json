@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Severe delays due to train cancellations. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway and Thameslink. "
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays between North Acton and West Ruislip/ Ealing Broadway and MINOR DELAYS between Leytonstone and Epping/ Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -36,16 +36,16 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "LIONESS LINE: Saturday 17 and Sunday 18 October, a reduced service will run between Kilburn High Road and Euston. On Saturday, between 0630 and 2030, trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 0715 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road. On Sunday, between 1130 and 2030,  trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 1215 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road"
     },
     "Metropolitan": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "MILDMAY LINE: Sunday 18 October, until 1115, no service between Gospel Oak and Stratford. Replacement bus service S operates between Gospel Oak (Southampton Road / Agincourt Road) and Stratford via Kentish Town West, Camden Road, Holloway Road (Piccadilly line), Highbury & Islington (for Caledonian Road & Barnsbury), Canonbury (St Pauls Road), Dalston Junction (for Dalston Kingsland), Hackney Central, Homerton and Hackney Wick."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "LONDON TRAMS: Saturday 17 and Sunday 18 October, no service between Sandilands and New Addington. No Tram Replacement Buses will operate."
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations.  "
     },
     "Waterloo & City": {
         "is_disrupted": true,
