@@ -1,15 +1,15 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": true,
@@ -17,35 +17,35 @@
     },
     "DLR": {
         "is_disrupted": true,
-        "reason": "Docklands Light Railway: Service will resume later this morning. There will be no service between Tower Gateway and Shadwell due to planned engineering work. "
+        "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 18 October, no service between Shadwell and Tower Gateway."
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Service will resume later this morning. "
+        "reason": "ELIZABETH LINE: Sunday 18 October, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. Acton Main Line, Hanwell and West Ealing stations are CLOSED."
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Liberty": {
-        "is_disrupted": true,
-        "reason": "Liberty Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Service will resume later this morning. Until 11:15 there will be no service between Gospel Oak and Stratford due to planned engineering work. "
+        "reason": "MILDMAY LINE: Sunday 18 October, until 1115, no service between Gospel Oak and Stratford. Replacement bus service S operates between Gospel Oak (Southampton Road / Agincourt Road) and Stratford via Kentish Town West, Camden Road, Holloway Road (Piccadilly line), Highbury & Islington (for Caledonian Road & Barnsbury), Canonbury (St Pauls Road), Dalston Junction (for Dalston Kingsland), Hackney Central, Homerton and Hackney Wick."
     },
     "Northern": {
         "is_disrupted": false,
@@ -57,7 +57,7 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: Service will resume later this morning. There will be no service between Barking and Barking Riverside due to planned engineering work. "
+        "reason": "SUFFRAGETTE LINE: Sunday 18 October, no service between Barking and Barking Riverside, please use local London Buses services."
     },
     "Tram": {
         "is_disrupted": true,
@@ -68,8 +68,8 @@
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
         "is_disrupted": true,
