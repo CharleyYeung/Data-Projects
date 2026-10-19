@@ -12457,3 +12457,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-10-19 17:05:20,Central,Central Line: Minor delays due to train cancellations. ,True
 2026-10-19 17:05:20,Northern,Northern Line: Minor delays due to train cancellations. ,True
 2026-10-19 17:05:20,Tram,London Tramlink: No service between Arena and Elmers End due to a track fault at Lebanon Road. GOOD SERVICE on the rest of the line. ,True
+2026-10-19 21:30:57,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-10-19 21:30:57,Metropolitan,Metropolitan Line: Minor delays between Moor Park and Watford / Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-10-19 21:30:57,Tram,London Tramlink: No service between Arena and Elmers End due to a track fault at Lebanon Road. GOOD SERVICE on the rest of the line. ,True
