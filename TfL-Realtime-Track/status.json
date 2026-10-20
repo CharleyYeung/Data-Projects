@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays while we fix a signal failure at South Kenton.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": true,
@@ -13,15 +13,15 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays due to an earlier signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, South Western Railway and Mildmay Line. "
+        "reason": "District Line: Severe delays between Ealing Broadway and Upminster and MINOR DELAYS between Earl's Court and Wimbledon and between Turnham Green and Richmond due to an earlier signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, South Western Railway and Mildmay Line. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "ELIZABETH LINE: Monday 19, Tuesday 20, Wednesday 21 and Thursday 22 October, the 2217 Abbey Wood to Reading train will terminate at Maidenhead. Customers travelling to Twyford and Reading should change at Maidenhead to the 2338 GWR service to Twyford and Reading. At Maidenhead, connecting westbound GWR trains to Twyford and Reading use Platform 1. For step-free interchange from platform 3 to platform 1, please use the lift to the main entrance, and then continue at street level under the railway bridge and up Shoppenhangers Road to the car park. Please ask staff to open the gate to platform 1, and allow extra time for your journey. The 2317 Reading to Paddington train is revised to start at Maidenhead at 2333, a later GWR service operates at 2350 from Reading to Paddington calling at Twyford, Reading and Slough"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -45,15 +45,15 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Part suspended between Willesden Junction and Richmond while we fix a points failure at Acton Central. GOOD SERVICE on the rest of the line. "
+        "reason": "Mildmay Line: Part suspended between Willesden Junction and Richmond while we fix a points failure at Acton Central. SEVERE DELAYS on the rest of the line. "
     },
     "Northern": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge / Heathrow Terminals due to an earlier security alert. Tickets are being accepted on London Buses, Elizabeth line, Weaver Line, Great Northern and South Western Railway. MINOR DELAYS on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
