@@ -12495,3 +12495,8 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-10-20 15:14:51,District,District Line: No service between Tower Hill and Earl's Court while we fix a signal fault at Mansion House. SEVERE DELAYS on the rest of the line. Tickets will be accepted on London buses  C2C  Elizabeth Line  DLR  South Western Railway and Mildmay Line. ,True
 2026-10-20 15:14:51,Tram,London Tramlink: No service between Arena and Elmers End all day due to a track fault at Lebanon Road. GOOD SERVICE on other tram routes. ,True
 2026-10-20 15:14:51,Victoria,Victoria Line: Minor delays due to train cancellations. ,True
+2026-10-20 19:19:18,Bakerloo,Bakerloo Line: Minor delays while we fix a signal failure at South Kenton.  ,True
+2026-10-20 19:19:18,Central,Central Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses  Liberty line  Elizabeth line  Chiltern Railways  Great Western Railway and Greater Anglia.  ,True
+2026-10-20 19:19:18,District,District Line: Severe delays due to an earlier signal fault at Mansion House. Tickets will be accepted on London buses  C2C  Elizabeth Line  DLR  South Western Railway and Mildmay Line. ,True
+2026-10-20 19:19:18,Mildmay,Mildmay Line: Part suspended between Willesden Junction and Richmond while we fix a points failure at Acton Central. GOOD SERVICE on the rest of the line. ,True
+2026-10-20 19:19:18,Tram,London Tramlink: No service between Arena and Elmers End all day due to a track fault at Lebanon Road. GOOD SERVICE on other tram routes. ,True
