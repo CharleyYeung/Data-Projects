@@ -12460,3 +12460,23 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-10-19 21:30:57,Central,Central Line: Minor delays due to train cancellations. ,True
 2026-10-19 21:30:57,Metropolitan,Metropolitan Line: Minor delays between Moor Park and Watford / Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. ,True
 2026-10-19 21:30:57,Tram,London Tramlink: No service between Arena and Elmers End due to a track fault at Lebanon Road. GOOD SERVICE on the rest of the line. ,True
+2026-10-20 00:39:03,Bakerloo,Bakerloo Line: Service will resume later this morning.  ,True
+2026-10-20 00:39:03,Central,Central Line: Service will resume later this morning.  ,True
+2026-10-20 00:39:03,Circle,Circle Line: Service will resume later this morning.  ,True
+2026-10-20 00:39:03,District,District Line: Service will resume later this morning.  ,True
+2026-10-20 00:39:03,DLR,Docklands Light Railway: Service will resume later this morning.  ,True
+2026-10-20 00:39:03,Elizabeth line,Service will resume later this morning.  ,True
+2026-10-20 00:39:03,Hammersmith & City,Hammersmith and City Line: Service will resume later this morning.  ,True
+2026-10-20 00:39:03,Jubilee,Jubilee Line: Service will resume later this morning.  ,True
+2026-10-20 00:39:03,Liberty,Liberty Line: Service will resume later this morning.  ,True
+2026-10-20 00:39:03,Lioness,Lioness Line: Service will resume later this morning.  ,True
+2026-10-20 00:39:03,Metropolitan,Metropolitan Line: Service will resume later this morning.  ,True
+2026-10-20 00:39:03,Mildmay,Mildmay Line: Service will resume later this morning.  ,True
+2026-10-20 00:39:03,Northern,Northern Line: Service will resume later this morning.  ,True
+2026-10-20 00:39:03,Piccadilly,Piccadilly Line: Service will resume later this morning.  ,True
+2026-10-20 00:39:03,Suffragette,Suffragette Line: Service will resume later this morning.  ,True
+2026-10-20 00:39:03,Tram,London Tramlink: Service will resume later this morning.  ,True
+2026-10-20 00:39:03,Victoria,Victoria Line: Service will resume later this morning.  ,True
+2026-10-20 00:39:03,Waterloo & City,Waterloo and City Line: Service will resume at 06:00.  ,True
+2026-10-20 00:39:03,Weaver,Weaver Line: Service will resume later this morning.  ,True
+2026-10-20 00:39:03,Windrush,Windrush Line: Service will resume later this morning.  ,True
