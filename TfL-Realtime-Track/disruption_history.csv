@@ -12539,3 +12539,10 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-10-21 15:36:41,Jubilee,Jubilee Line: Severe delays while we respond to a fire alert in the London Bridge area. Tickets will be accepted on London Buses. Mildmay line  DLR  Elizabeth line  C2C  and Thameslink services via any reasonable route. ,True
 2026-10-21 15:36:41,Tram,London Tramlink: No service between Arena and Elmers End due to a track fault at Lebanon Road. GOOD SERVICE on other Tram routes.   ,True
 2026-10-21 15:36:41,Victoria,Victoria Line: Minor delays due to train cancellations.  ,True
+2026-10-21 19:37:06,Bakerloo,Bakerloo Line: Severe delays between Harrow & Wealdstone and Stonebridge Park due to an earlier track fault at Kenton. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses and the Lioness line. ,True
+2026-10-21 19:37:06,Central,Central Line: Severe delays due to train cancellations. Tickets will be accepted on London Buses  liberty line  Elizabeth line  Chiltern railways  Great Western railway and Great Anglia services via any reasonable route. ,True
+2026-10-21 19:37:06,Elizabeth line,Severe delays between Whitechapel and Shenfield due to an earlier signal system failure at Ilford. GOOD SERVICE on the rest of the line. Tickets will be accepted on Liberty Line  London Buses  Greater Anglia  London Overground and C2C services via any reasonable route. ,True
+2026-10-21 19:37:06,Jubilee,Jubilee Line: Minor delays due to an earlier fire alert in the London Bridge area.  ,True
+2026-10-21 19:37:06,Mildmay,Mildmay Line: Minor delays due to an earlier faulty train at Highbury & Islington. ,True
+2026-10-21 19:37:06,Tram,London Tramlink: No service between Arena and Elmers End due to a track fault at Lebanon Road. GOOD SERVICE on other Tram routes.   ,True
+2026-10-21 19:37:06,Victoria,Victoria Line: Minor delays due to train cancellations.  ,True
