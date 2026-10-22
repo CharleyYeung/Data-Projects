@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Minor delays between Abbey Wood and Whitechapel while we fix a faulty train at Custom House. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham due to train cancellations. The next southbound Amersham departure will be at 07:21. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": false,
