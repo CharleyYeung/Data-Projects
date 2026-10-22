@@ -12575,3 +12575,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-10-22 05:46:48,Metropolitan,Metropolitan Line: Minor delays between Moor Park and Amersham due to train cancellations. The next southbound Amersham departure will be at 07:21. GOOD SERVICE on the rest of the line. ,True
 2026-10-22 05:46:48,Tram,London Tramlink: No service between Arena and Elmers End all day due to a track fault at Lebanon Road. GOOD SERVICE on other tram routes. ,True
 2026-10-22 11:02:48,Tram,London Tramlink: No service between Arena and Elmers End all day due to a track fault at Lebanon Road. GOOD SERVICE on other tram routes. ,True
+2026-10-22 15:52:06,Bakerloo,Bakerloo Line: Minor delays between Harrow and Wealdstone and Queen's Park due to an earlier customer incident at Maida Vale. GOOD SERVICE on the rest of the line. ,True
+2026-10-22 15:52:06,Piccadilly,Piccadilly Line: SEVERE DELAYS while we fix a signal failure at Leicester Square. Tickets are being accepted on London Buses  Elizabeth Line  Great Northern and Weaver line via any reasonable route. ,True
+2026-10-22 15:52:06,Tram,London Tramlink: No service between Arena and Elmers End all day due to a track fault at Lebanon Road. GOOD SERVICE on other tram routes. ,True
