@@ -12632,3 +12632,9 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-10-23 19:44:08,Tram,London Tramlink: No service between Arena and Elmers End all day due to a track fault at Lebanon Road. GOOD SERVICE on other tram routes. ,True
 2026-10-23 19:44:08,Victoria,Victoria Line: Minor delays due to train cancellations. ,True
 2026-10-23 19:44:08,Windrush,Windrush Line: No service between West Croydon and Sydenham due to a track Circuit Failure at Norwood Junction. GOOD SERVICE on the rest of the line. ,True
+2026-10-23 22:39:06,Metropolitan,Metropolitan Line: Minor delays between Harrow on-the-Hill and Uxbridge  and between Watford and Moor Park due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
+2026-10-23 22:39:06,Northern,Northern Line: Minor delays due to an earlier points failure at Morden.  ,True
+2026-10-23 22:39:06,Suffragette,Suffragette Line: No service due to a power supply failure and an operational incident. London Underground are accepting tickets via any reasonable route.  ,True
+2026-10-23 22:39:06,Tram,London Tramlink: No service between Arena and Elmers End all day due to a track fault at Lebanon Road. GOOD SERVICE on other tram routes. ,True
+2026-10-23 22:39:06,Victoria,Victoria Line: Minor delays due to train cancellations. ,True
+2026-10-23 22:39:06,Windrush,Windrush Line: No service between West Croydon and Sydenham due to a track Circuit Failure at Norwood Junction. GOOD SERVICE on the rest of the line. ,True
