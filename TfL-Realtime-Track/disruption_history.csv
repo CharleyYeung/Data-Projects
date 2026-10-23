@@ -12613,3 +12613,11 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-10-23 11:35:28,Northern,Northern Line: Severe delays due to an earlier signal failure at Archway. Tickets are being accepted on London Buses  London Trams  Southeastern  Thameslink and South Western Railway via any reasonable route.  ,True
 2026-10-23 11:35:28,Piccadilly,Piccadilly Line: Severe delays while we fix a signal failure at Leicester Square. Please avoid the Piccadilly line where possible. Tickets are being accepted on London Buses  Elizabeth Line  Great Northern  Weaver Line and South Western Railway.  ,True
 2026-10-23 11:35:28,Tram,London Tramlink: No service between Arena and Elmers End all day due to a track fault at Lebanon Road. GOOD SERVICE on other tram routes. ,True
+2026-10-23 15:54:48,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-10-23 15:54:48,Elizabeth line,Severe delays between Paddington and Heathrow/Reading while we fix an infrastructure defect at Southall. GOOD SERVICE on the rest of the line. ,True
+2026-10-23 15:54:48,Northern,Northern Line: Severe delays between Camden Town and High Barnet due to an obstruction on the track at East Finchley. MINOR DELAYS on the rest of the line due to an earlier signal failure at Archway.  ,True
+2026-10-23 15:54:48,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals and Acton Town and Uxbridge while we fix a signal failure at Leicester Square. GOOD SERVICE on the rest of the line.  ,True
+2026-10-23 15:54:48,Suffragette,Suffragette Line: No service due to a power supply failure and an operational incident. London Underground are accepting tickets via any reasonable route.  ,True
+2026-10-23 15:54:48,Tram,London Tramlink: No service between Arena and Elmers End all day due to a track fault at Lebanon Road. GOOD SERVICE on other tram routes. ,True
+2026-10-23 15:54:48,Victoria,Victoria Line: Minor delays due to train cancellations. ,True
+2026-10-23 15:54:48,Windrush,Windrush Line: No service between West Croydon and Sydenham due to a track Circuit Failure at Norwood Junction. GOOD SERVICE on the rest of the line. ,True
