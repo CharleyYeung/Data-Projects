@@ -12604,3 +12604,8 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-10-23 01:09:21,Waterloo & City,Waterloo and City Line: Service will resume at 06:00.  ,True
 2026-10-23 01:09:21,Weaver,Weaver Line: Service will resume later this morning.  ,True
 2026-10-23 01:09:21,Windrush,Windrush Line: Service will resume later this morning.  ,True
+2026-10-23 06:01:16,Central,Central Line: Severe delays between North Acton and West Ruislip due to an earlier faulty train at Perivale. SEVERE DELAYS between Hainault and Leytonstone following a late finish of engineering work. Tickets are being accepted on London Buses  Elizabeth Line  Chiltern Railways and Great Western Railway services via any reasonable routes. GOOD SERVICE on the rest of the line. ,True
+2026-10-23 06:01:16,Mildmay,Mildmay Line: Severe delays while we fix a signal failure at Stratford. ,True
+2026-10-23 06:01:16,Piccadilly,Piccadilly Line: No service between Rayners Lane and Uxbridge due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses. MINOR DELAYS on the rest of the line. ,True
+2026-10-23 06:01:16,Tram,London Tramlink: No service between Arena and Elmers End all day due to a track fault at Lebanon Road. GOOD SERVICE on other tram routes. ,True
+2026-10-23 06:01:16,Waterloo & City,Waterloo and City Line: No service due to the unavailability of control room staff. Tickets are being accepted on London Buses. ,True
