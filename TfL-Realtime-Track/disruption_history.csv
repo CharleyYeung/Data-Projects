@@ -12621,3 +12621,14 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-10-23 15:54:48,Tram,London Tramlink: No service between Arena and Elmers End all day due to a track fault at Lebanon Road. GOOD SERVICE on other tram routes. ,True
 2026-10-23 15:54:48,Victoria,Victoria Line: Minor delays due to train cancellations. ,True
 2026-10-23 15:54:48,Windrush,Windrush Line: No service between West Croydon and Sydenham due to a track Circuit Failure at Norwood Junction. GOOD SERVICE on the rest of the line. ,True
+2026-10-23 19:44:08,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-10-23 19:44:08,District,District Line: No service between High Street Kensington and Edgware Road while we fix a points failure at High Street Kensington. Tickets will be accepted on London Buses via any reasonable route. GOOD SERVICE on the rest of the line. ,True
+2026-10-23 19:44:08,Elizabeth line,Minor delays between Paddington and Heathrow Airport/Reading while we fix an infrastructure defect at Southall. GOOD SERVICE on the rest of the line. ,True
+2026-10-23 19:44:08,Jubilee,Jubilee Line: Minor delays while we deal with a customer incident at Canary Wharf.  ,True
+2026-10-23 19:44:08,Metropolitan,Metropolitan Line: Minor delays between Rickmansworth and Amersham / Chesham due to an earlier signal failure at Chorleywood. GOOD SERVICE on the rest of the line.  ,True
+2026-10-23 19:44:08,Mildmay,Mildmay Line: Minor delays due to an earlier faulty train at Dalston Kingsland.  ,True
+2026-10-23 19:44:08,Northern,Northern Line: Minor delays due to an earlier points failure at Morden.  ,True
+2026-10-23 19:44:08,Suffragette,Suffragette Line: No service due to a power supply failure and an operational incident. London Underground are accepting tickets via any reasonable route.  ,True
+2026-10-23 19:44:08,Tram,London Tramlink: No service between Arena and Elmers End all day due to a track fault at Lebanon Road. GOOD SERVICE on other tram routes. ,True
+2026-10-23 19:44:08,Victoria,Victoria Line: Minor delays due to train cancellations. ,True
+2026-10-23 19:44:08,Windrush,Windrush Line: No service between West Croydon and Sydenham due to a track Circuit Failure at Norwood Junction. GOOD SERVICE on the rest of the line. ,True
