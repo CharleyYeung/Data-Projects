@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth line, Chiltern Railways, Greater Anglia and Great Western Railway.  "
     },
     "Circle": {
         "is_disrupted": true,
