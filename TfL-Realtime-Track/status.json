@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": true,
@@ -16,8 +16,8 @@
         "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: Severe delays between Bank and Woolwich Arsenal, and between Tower Gateway and Beckton while we fix a points failure at Canning Town. GOOD SERVICE on other DLR routes.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Elizabeth line": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+        "reason": "Metropolitan Line: Severe delays due to an earlier tree on the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -52,8 +52,8 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals due to an earlier tree on the track at Hounslow West. London Buses are accepting valid tickets. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": true,
