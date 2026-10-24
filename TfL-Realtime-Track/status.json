@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": false,
@@ -9,59 +9,59 @@
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work.  "
+        "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work. "
+        "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Liberty": {
-        "is_disrupted": true,
-        "reason": "Liberty Line: Service will resume later this morning. "
-    },
-    "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Service will resume later this morning. "
-    },
-    "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Service will resume later this morning. "
-    },
-    "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Service will resume later this morning. "
-    },
-    "Northern": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
-    "Piccadilly": {
+    "Lioness": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
+    },
+    "Metropolitan": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
+    },
+    "Mildmay": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
+    },
+    "Northern": {
         "is_disrupted": true,
-        "reason": "PICCADILLY LINE: Saturday 24 October, between 0200 and 0400, no service between Kings Cross St Pancras and Hammersmith due to emergency engineering works to fix a faulty signal at Leicester Square. Please use alternative London Underground lines and Night Buses."
+        "reason": "Northern Line: Minor delays between Edgware and Camden Town due to an earlier faulty train at Golders Green. GOOD SERVICE on the rest of the line. "
+    },
+    "Piccadilly": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: Service will resume later this morning. "
+        "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
     },
     "Tram": {
         "is_disrupted": true,
-        "reason": "London Tramlink: Service will resume later this morning. There will be no service between East Croydon and Beckenham Junction / Elmers End / New Addington due to planned engineering work. "
+        "reason": "LONDON TRAMS: Saturday 24 October to Thursday 5 November, no service between East Croydon and Beckenham Junction / Elmers End / New Addington. SOUTHERN services continue to serve Birkbeck, except on Sundays. Replacement bus services operate"
     },
     "Victoria": {
         "is_disrupted": false,
@@ -69,14 +69,14 @@
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: No service between West Croydon and Sydenham due to a track circuit failure at Norwood Junction. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
