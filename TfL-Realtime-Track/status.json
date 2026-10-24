@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to an earlier faulty train at Finchley Road. "
+        "reason": "Jubilee Line: Severe delays west/northbound only due to an earlier faulty train at Westminster. MINOR DELAYS on the rest of the line due to an earlier faulty train at Finchley Road. London Buses, Elizabeth line, Thameslink and DLR are accepting valid tickets via any reasonable route. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,15 +41,15 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Severe delays between Moor Park and Watford, and MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train from Watford will be at 20:38. The next southbound train from Chesham will be at 20:26. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service while we remove an obstruction from the overhead power lines at West Hampstead. Tickets are being accepted on London Underground. "
+        "reason": "MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: Minor delays between Morden and Camden Town via Bank only due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Piccadilly": {
         "is_disrupted": false,
