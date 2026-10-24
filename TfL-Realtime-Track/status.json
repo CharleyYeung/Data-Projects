@@ -40,16 +40,16 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge and between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": true,
-        "reason": "Northern Line: Minor delays between Edgware and Camden Town due to an earlier faulty train at Golders Green. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Piccadilly": {
         "is_disrupted": false,
@@ -57,7 +57,7 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: No service between Barking Riverside and Barking and MINOR DELAYS on the rest of the line due to an operational incident. "
+        "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
     },
     "Tram": {
         "is_disrupted": true,
