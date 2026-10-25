@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Service will resume later this morning.\r\n "
     },
     "Central": {
         "is_disrupted": false,
@@ -16,32 +16,32 @@
         "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: Service will resume later this morning. There will be no service between Tower Gateway and Shadwell due to planned engineering work. "
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Service will resume later this morning. "
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Service will resume later this morning. "
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to an earlier faulty train at Westminster and Finchley Road. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Liberty Line: Service will resume later this morning.\r\n "
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Service will resume later this morning.\r\n "
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays due to an earlier tree on the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.  "
+        "reason": "Metropolitan Line: Service will resume later this morning.\r\n "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -52,12 +52,12 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals due to an earlier tree on the track at Hounslow West. London Buses are accepting valid tickets. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: No service between Barking Riverside and Barking due to an operational incident. MINOR DELAYS on the rest of the line "
+        "reason": "Suffragette Line: Service will resume later this morning. There will be no service between Barking Riverside and Barking due to an operational incident. "
     },
     "Tram": {
         "is_disrupted": true,
@@ -69,11 +69,11 @@
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: Service will resume later this morning.\r\n "
     },
     "Windrush": {
         "is_disrupted": false,
