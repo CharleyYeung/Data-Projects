@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays while we fix a signal failure at Kensal Green. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway and Thameslink services via any reasonable route. "
+        "reason": "Bakerloo Line: Minor delays due to an earlier signal failure at Kensal Green.  "
     },
     "Central": {
         "is_disrupted": false,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to an earlier obstruction on the track at Queensbury. Tickets are being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, C2C, Southeastern and Thameslink services via any reasonable route.  "
+        "reason": "Jubilee Line: Minor delays due to an earlier obstruction on the track at Queensbury.\r\n "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -57,7 +57,7 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident.  "
+        "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident. There is a Thirty minute shuttle in operation between Woodgrange Park and Gospel Oak. "
     },
     "Tram": {
         "is_disrupted": true,
@@ -72,8 +72,8 @@
         "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: Severe delays while we fix a track fault between Highams Park and Chingford. \r\n. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
         "is_disrupted": true,
