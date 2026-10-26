@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Minor delays between Green Park and Stratford due to earlier faulty platform edge doors. GOOD SERVICE on the rest of the line. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -57,15 +57,15 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
+        "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground accepting tickets via any reasonable routes.  "
     },
     "Tram": {
         "is_disrupted": true,
         "reason": "LONDON TRAMS: Saturday 24 October to Thursday 5 November, no service between East Croydon and Beckenham Junction / Elmers End / New Addington due to planned engineering work. SOUTHERN services continue to serve Birkbeck, except on Sundays. Replacement bus services operate"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations.  "
     },
     "Waterloo & City": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: Minor delays between Sydenham and West Croydon while we fix a signal failure at Honor Oak Park. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
