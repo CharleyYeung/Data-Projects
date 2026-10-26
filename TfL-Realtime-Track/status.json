@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays due to an earlier signal failure at Kensal Green.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": false,
@@ -9,19 +9,19 @@
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+        "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
     },
     "District": {
         "is_disrupted": true,
-        "reason": "DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+        "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 25 October, no service between Shadwell and Tower Gateway."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "ELIZABETH LINE: Sunday 25 October, a reduced service operates between Hayes & Harlington and Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. From 1100 until 1900, westbound trains will not call at Burnham or Taplow, and after 1900, no trains call at Burnham or Taplow. Replacement bus service W3 operates between Slough and Maidenhead via Burnham and Taplow. At Maidenhead, from 1100, westbound trains to Twyford and Reading use Platform 1. For step-free interchange from platform 3 to platform 1, please use the lift to the main entrance, and then continue at street level under the railway bridge and up Shoppenhangers Road to the car park. Please ask staff to open the gate to platform 1, and allow extra time for your journey"
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -57,7 +57,7 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident. There is a Thirty minute shuttle in operation between Woodgrange Park and Gospel Oak. "
+        "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
     },
     "Tram": {
         "is_disrupted": true,
@@ -69,14 +69,14 @@
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
     },
     "Weaver": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "WINDRUSH LINE: Sunday 25 October, no service between Sydenham and Crystal Palace. Please use local London Buses connections between Anerley and Crystal Palace."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
