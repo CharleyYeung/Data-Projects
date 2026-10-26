@@ -4,16 +4,16 @@
         "reason": "Normal Operation"
     },
     "Central": {
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays due to train cancellations.  "
+    },
+    "Circle": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
-    "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: No service between Aldgate and Edgware Road via Victoria due to a late finish to engineering work. SEVERE DELAYS on the rest of the line. "
-    },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: No service between Embankment and Ealing Broadway / Edgware Road / Kensington (Olympia) / Richmond / Wimbledon due to a late finish to engineering work. London Buses, Mildmay line, Elizabeth line and South Western Railway are accepting tickets. MINOR DELAYS on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
@@ -57,26 +57,26 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Trains between Gospel Oak and South Tottenham are running every 30 minutes. "
+        "reason": "Suffragette Line: No service between Upper Holloway and Barking Riverside, and MINOR DELAYS on the rest of the line due to an operational incident. Tickets are being accepted on London Underground and London Buses. "
     },
     "Tram": {
         "is_disrupted": true,
-        "reason": "LONDON TRAMS: Saturday 24 October to Thursday 5 November, no service between East Croydon and Beckenham Junction / Elmers End / New Addington. SOUTHERN services continue to serve Birkbeck, except on Sundays. Replacement bus services operate"
+        "reason": "LONDON TRAMS: Saturday 24 October to Thursday 5 November, no service between East Croydon and Beckenham Junction / Elmers End / New Addington due to planned engineering work. SOUTHERN services continue to serve Birkbeck, except on Sundays. Replacement bus services operate"
     },
     "Victoria": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Weaver": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: Minor delays between Sydenham and West Croydon while we fix a signal failure at Honor Oak Park. GOOD SERVICE on the rest of the line. "
     }
 }
