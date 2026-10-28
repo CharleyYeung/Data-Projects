@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays following a late finish of engineering work at Stratford and Wembley Park. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -40,12 +40,12 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Wembley Park and Baker Street northbound only due to an earlier faulty train at Neasden. GOOD SERVICE on the rest of the line. "
-    },
-    "Mildmay": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Mildmay": {
+        "is_disrupted": true,
+        "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
     },
     "Northern": {
         "is_disrupted": false,
