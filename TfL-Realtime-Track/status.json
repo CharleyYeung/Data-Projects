@@ -8,12 +8,12 @@
         "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Severe delays due to an earlier customer incident. London Buses, Mildmay line, DLR, Elizabeth line and South Western Railway are accepting valid tickets via any reasonable route.  "
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Severe delays due to an earlier customer incident. London Buses, Mildmay line, DLR, Elizabeth line and South Western Railway are accepting valid tickets via any reasonable route.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -24,8 +24,8 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Severe delays while emergency services deal with a casualty on the track. Tickets will be accepted on London Buses, London Overground, DLR, Elizabeth line, C2C and South Western Railway. "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service between Gospel Oak and  Richmond while we fix a faulty train at Willesden Junction. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+        "reason": "Mildmay Line: Severe delays due to an earlier faulty train at Willesden Junction. London Underground are accepting tickets via any reasonable route. "
     },
     "Northern": {
         "is_disrupted": false,
