@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line due to a points failure at Elephant & Castle. If you're travelling beyond Queen's Park, take the first train and change there. Tickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
+        "reason": "Bakerloo Line: Severe delays due to a points failure at Elephant & Castle. If you are travelling beyond Queen's Park, take the first train and change there.\r\nTickets being accepted on London Buses, Lioness line, London Northwestern and Thameslink services.  "
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays between Kensington (Olympia) and Earl's Court due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest the line.  "
+        "reason": "District Line: No service between Kensington (Olympia) and Earl's Court and MINOR DELAYS on the rest the line due to train cancellations. Tickets being accepted on London Buses. "
     },
     "DLR": {
         "is_disrupted": true,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Watford due to train cancellations. GOOD SERVICE on the rest of line. "
     },
     "Mildmay": {
         "is_disrupted": true,
