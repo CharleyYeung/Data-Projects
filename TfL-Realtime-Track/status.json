@@ -1,19 +1,19 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays due to an earlier signal failure at Stonebridge Park.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to an earlier customer incident at Stratford. GOOD SERVICE on the rest of the line.   "
+        "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and SEVERE DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
     },
     "Circle": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Minor delays due to train cancellations.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Severe delays due to a operational incident at Caledonian Road & Barnsbury.  "
     },
     "Northern": {
         "is_disrupted": false,
