@@ -36,12 +36,12 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "LIONESS LINE: Saturday 7 and Sunday 8 November, a reduced service will run between Kilburn High Road and Euston. On Saturday, between 0630 and 2030, trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 0715 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road. On Sunday, between 1130 and 2030,  trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 1215 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road"
-    },
-    "Metropolitan": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Metropolitan": {
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham due to train cancellations. The next departure from Amersham will be at 00:19. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": true,
