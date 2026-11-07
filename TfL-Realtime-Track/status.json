@@ -1,19 +1,19 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays between Harrow & Wealdstone and Queen's Park due to infrastructure damage at Harlesden. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, London Overground and North Western Railway.\r\n\r\n\r\n "
+        "reason": "Bakerloo Line: Minor delays due to infrastructure damage at Harlesden.  "
     },
     "Central": {
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays due to train cancellations.  "
+    },
+    "Circle": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
-    "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Severe delays due to an earlier faulty train at Tower Hill. Tickets are being accepted on London Buses. "
-    },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays between Tower Hill and Upminster and MINOR DELAYS between Tower Hill and Earl's Court due to an earlier faulty train at Tower Hill. Tickets are being accepted on London Buses and C2C. GOOD SERVICE on the rest of the line. "
+        "reason": "District Line: Minor delays between Tower Hill and Upminster due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "LIONESS LINE: Saturday 7 and Sunday 8 November, a reduced service will run between Kilburn High Road and Euston. On Saturday, between 0630 and 2030, trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 0715 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road. On Sunday, between 1130 and 2030,  trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 1215 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
