@@ -9,11 +9,11 @@
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Minor delays due to an earlier customer incident at High Street Kensington. "
+        "reason": "Circle Line: Minor delays due to train cancellations.  "
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays due to train cancellations.  "
+        "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway and MINOR DELAYS on the rest of the line due to train cancellations. Tickets will be accepted on London Buses. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -24,12 +24,12 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Severe delays due to train cancellations. Customers wishing to travel to Barking should change at Plaistow for a District line train. Tickets will also be accepted on London Buses, DLR, Elizabeth line and c2c services.  "
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to train cancellations.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
