@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays between Leytonstone and Epping / Hainault via Newbury Park and between North Acton and Ealing Broadway / West Ruislip due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "No service between Paddington and Reading / Heathrow Terminals while emergency services deal with a casualty on the track. SEVERE DELAYS between Whitechapel and Abbey Wood. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge and between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -57,7 +57,7 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: No service between Barking Riverside and Barking due to a late finish of engineering work. Severe Delays on the rest of the line. "
+        "reason": "Suffragette Line: Severe delays due to an earlier vehicle hitting a bridge in the Harringay area. London Underground are accepting tickets via any reasonable route.  "
     },
     "Tram": {
         "is_disrupted": false,
