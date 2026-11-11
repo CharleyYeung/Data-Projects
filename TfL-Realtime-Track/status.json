@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": false,
@@ -20,12 +20,12 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "No service between Paddington and Reading / Heathrow Terminals while emergency services deal with a casualty on the track. SEVERE DELAYS between Whitechapel and Abbey Wood. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays Eastbound only due to train cancellations. GOOD SERVICE Westbound.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge and between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -57,7 +57,7 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: No service between South Tottenham and Barking Riverside, until the end of service on Tuesday 10 November, due to a operational incident. A reduced service is operating on the rest of the line. Trains will operate every thirty minutes in either direction departing Gospel Oak at xx:09 and xx:39 and departing South Tottenham at xx:13 and xx:43. London Underground and London Buses are accepting tickets via any reasonable routes."
+        "reason": "Suffragette Line: No service between Barking Riverside and Barking due to a late finish of engineering work. Severe Delays on the rest of the line. "
     },
     "Tram": {
         "is_disrupted": false,
@@ -68,12 +68,12 @@
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "WEAVER LINE: Monday 9, Tuesday 10, Wednesday 11 and Thursday 12 November, after 2245 each evening, no service between Hackney Downs and Chingford. Last through trains operate at 2231 from Liverpool Street and at 2253 from Chingford. Replacement bus service L3 operates between Hackney Downs and Chingford via Clapton, St James Street, Walthamstow Central, Wood Street and Highams Park. The last three northbound buses operate from Liverpool Street at 0014 0044 and 0114 and also call at Bethnal Green, Cambridge Heath and London Fields (Mare Street)"
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
         "is_disrupted": false,
