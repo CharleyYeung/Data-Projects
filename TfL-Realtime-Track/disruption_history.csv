@@ -13332,3 +13332,5 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-11-11 15:30:58,Central,Central Line: Minor delays between Leytonstone and Epping / Hainault via Newbury Park and between North Acton and Ealing Broadway / West Ruislip due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
 2026-11-11 15:30:58,District,District Line: Minor delays due to train cancellations. ,True
 2026-11-11 15:30:58,Suffragette,Suffragette Line: Severe delays due to an earlier vehicle hitting a bridge in the Harringay area. London Underground are accepting tickets via any reasonable route.  ,True
+2026-11-11 22:15:53,District,District Line: Severe delays while we fix a signal failure at Stamford Brook and due to train cancellations. Tickets are being accepted London Buses  Mildmay line  Elizabeth line and South Western Railway via any reasonable route. ,True
+2026-11-11 22:15:53,Windrush,Windrush Line: Severe Delays between Sydenham and West Croydon due to an earlier points failure at West Croydon. GOOD SERVICE on the rest of the line. ,True

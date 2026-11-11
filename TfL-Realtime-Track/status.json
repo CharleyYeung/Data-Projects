@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays between Leytonstone and Epping / Hainault via Newbury Park and between North Acton and Ealing Broadway / West Ruislip due to train cancellations. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": false,
@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays due to train cancellations. "
+        "reason": "District Line: Severe delays while we fix a signal failure at Stamford Brook and due to train cancellations. Tickets are being accepted London Buses, Mildmay line, Elizabeth line and South Western Railway via any reasonable route. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -56,8 +56,8 @@
         "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "Suffragette Line: Severe delays due to an earlier vehicle hitting a bridge in the Harringay area. London Underground are accepting tickets via any reasonable route.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: Severe Delays between Sydenham and West Croydon due to an earlier points failure at West Croydon. GOOD SERVICE on the rest of the line. "
     }
 }
