@@ -13356,3 +13356,9 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-11-12 03:12:04,Windrush,Windrush Line: Service will resume later this morning.  ,True
 2026-11-12 13:29:40,Central,Central Line: Minor delays between Leytonstone and Epping while we fix a faulty track at South Woodford. GOOD SERVICE on the rest of line.  ,True
 2026-11-12 13:29:40,Northern,Northern Line: Severe delays due to an earlier customer incident.Tickets being accepted by London Buses.  ,True
+2026-11-12 21:01:27,Bakerloo,Bakerloo Line: Severe delays between Stonebridge Park to Harrow & Wealdstone and MINOR DELAYS between Queen's Park and Stonebridge Park while we fix a signal fault at Queen's Park. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. ,True
+2026-11-12 21:01:27,District,District Line: Minor delays between Earl's Court and Ealing Broadway due to train cancellations. ,True
+2026-11-12 21:01:27,Jubilee,Jubilee Line: Minor delays due to train cancellations.  ,True
+2026-11-12 21:01:27,Lioness,Lioness Line: Severe delays while we fix a signal failure at South Kenton. ,True
+2026-11-12 21:01:27,Mildmay,Mildmay Line: Severe delays while we fix a signal failure in the Stratford area. ,True
+2026-11-12 21:01:27,Northern,Northern Line: Severe delays due to an earlier points failure at Mornington Crescent. Tickets are  being accepted by London Buses  London Trams  Southeastern  Thameslink and South Western Railway services via any reasonable route. ,True
