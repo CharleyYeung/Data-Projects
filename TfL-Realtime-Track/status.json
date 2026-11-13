@@ -5,23 +5,23 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations.  "
+        "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: No service between Turnham Green and Richmond while we fix a faulty train at Kew Gardens. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Bused and South Western Railway. "
     },
     "DLR": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "No service between West Drayton and Reading and SEVERE DELAYS on the rest of the line while we deal with a trespasser on the track at Langley and while we fix a signal failure in the Paddington area.\r\nTickets are being accepted on London Underground, Buses, GWR, SWR, Heathrow Express, Chiltern, DLR, Southeastern, Thameslink, Greater Anglia, C2C and Liberty Line via reasonable routes. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -45,23 +45,23 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service between Willesden Junction and Clapham Junction while we fix a signal failure in the Wembley area. London Underground accepting tickets via any reasonable routes. GOOD SERVICE on the rest the line.  "
+        "reason": "Mildmay Line: No service between South Acton & Richmond while we fix a faulty train at Richmond and MINOR DELAYS on the rest the line. \r\nLondon Underground accepting tickets via any reasonable routes.\r\n\r\n "
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Severe delays between Kennington and Morden while we fix a points failure at Morden. Tickets being accepted on London Buses, London Trams and Thameslink. GOOD SERVICE on the rest of the line.  "
+        "reason": "Northern Line: Severe delays due to an earlier fire alert at Stockwell. Tickets will be accepted on London Buses, Trams, Southeastern, Thameslink and South Western Railway services via any reasonable route. "
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Minor delays due to the unavailability of depot staff. "
     },
     "Suffragette": {
         "is_disrupted": true,
         "reason": "Suffragette Line: No service between Barking and Barking Riverside while we fix a points failure at Barking. GOOD SERVICE on the rest of the line. "
     },
     "Tram": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "London Tramlink: Minor delays between Reeves Corner and Elmers End due to a road traffic collision at West Croydon. GOOD SERVICE on the rest of the line. "
     },
     "Victoria": {
         "is_disrupted": false,
@@ -72,8 +72,8 @@
         "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: Minor delays while we fix an electrical fault. "
     },
     "Windrush": {
         "is_disrupted": true,
