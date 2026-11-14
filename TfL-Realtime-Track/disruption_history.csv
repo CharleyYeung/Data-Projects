@@ -13397,3 +13397,11 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-11-13 20:16:06,Tram,London Tramlink: Minor delays between Reeves Corner and Elmers End due to a road traffic collision at West Croydon. GOOD SERVICE on the rest of the line. ,True
 2026-11-13 20:16:06,Weaver,Weaver Line: Minor delays while we fix an electrical fault. ,True
 2026-11-13 20:16:06,Windrush,Windrush Line: No service while we fix a points failure at Surrey Quays. London Underground and London Buses are accepting valid tickets via any reasonable route. ,True
+2026-11-14 00:56:50,Bakerloo,Bakerloo Line: No Service due to an earlier signal failure and security alert. Tickets accepted on London Buses  London Overground  London NorthWestern railway and Thameslink Services via any reasonable route. ,True
+2026-11-14 00:56:50,District,District Line: Minor delays due to an earlier faulty train at Richmond and train cancellations. ,True
+2026-11-14 00:56:50,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations. ,True
+2026-11-14 00:56:50,Northern,Northern Line: Minor delays due to an earlier fire alert at Stockwell. ,True
+2026-11-14 00:56:50,Piccadilly,Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS on the rest of the line due to the unavailability of depot staff. Tickets are being accepted on London Buses.  ,True
+2026-11-14 00:56:50,Suffragette,Suffragette Line: No service between Barking and Barking Riverside while we fix a points failure at Barking. GOOD SERVICE on the rest of the line. ,True
+2026-11-14 00:56:50,Victoria,Victoria Line: Minor delays due to an earlier security alert.  ,True
+2026-11-14 00:56:50,Waterloo & City,Waterloo and City Line: Service will resume at 06:00 on Monday. ,True
