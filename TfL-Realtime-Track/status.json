@@ -8,8 +8,8 @@
         "reason": "Central Line: Minor delays due to train cancellations.  "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Severe delays due to an earlier trespasser on the track at Paddington. Tickets are being accepted on London Buses. "
     },
     "District": {
         "is_disrupted": true,
@@ -24,12 +24,12 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Minor delays due to an earlier trespasser on the track at Paddington.  "
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays due to train cancellations.  "
+        "reason": "Metropolitan Line: Minor delays due to train cancellations. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Severe delays due to an earlier animal on the track. Tickets are being accepted on London Buses, London Overground, Great Northern, Thameslink, Greater Anglia, South Western Railway, and Southeastern service. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: Minor delays due to an earlier customer incident at Haggerston.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
