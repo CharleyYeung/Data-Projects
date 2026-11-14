@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: No Service due to an earlier signal failure and security alert. Tickets accepted on London Buses, London Overground, London NorthWestern railway and Thameslink Services via any reasonable route. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": false,
@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays due to an earlier faulty train at Richmond and train cancellations. "
+        "reason": "District Line: Severe delays between Turnham Green and Ealing Broadway due to a signal failure at Chiswick Park. Tickets are being accepted on London Buses. MINOR DELAYS on the rest of the line due to train cancellations. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -25,11 +25,11 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
+        "reason": "Hammersmith and City Line: Minor Delays due to train cancellations. "
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: No service between Willesden Green and Stanmore and SEVERE DELAYS on the rest of the line while we fix a points failure at Wembley Park. Tickets are being accepted on London Buses, Mildmay line, DLR, Elizabeth line, C2C, Southeastern and Thameslink. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -44,16 +44,16 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Minor delays between Willesden Junction and Clapham Junction due to an earlier points failure at Kensington (Olympia). GOOD SERVICE on the rest of the line. "
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Minor delays due to an earlier fire alert at Stockwell. "
+        "reason": "NORTHERN LINE: From 0130 Saturday 14 until 0130 Sunday 15 November, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. There will be no Friday Night Tube service between Charing Cross and Morden. Replacement bus services operate during day hours only, for Night journeys please use Night Bus services"
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS on the rest of the line due to the unavailability of depot staff. Tickets are being accepted on London Buses.  "
+        "reason": "Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals due to an earlier animal on the track. Tickets are being accepted on London Buses, Elizabeth line and South Western Railway services via any reasonable route. MINOR DELAYS on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": true,
@@ -64,12 +64,12 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to an earlier security alert.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
         "is_disrupted": false,
