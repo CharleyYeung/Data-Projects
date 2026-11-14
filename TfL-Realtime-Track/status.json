@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays between Turnham Green and Ealing Broadway due to a signal failure at Chiswick Park. Tickets are being accepted on London Buses. MINOR DELAYS on the rest of the line due to train cancellations. "
+        "reason": "District Line: No service between Earl's Court and Kensington (Olympia) and MINOR DELAYS between Earl's Court and Wimbledon due to train cancellations. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -25,11 +25,11 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor Delays due to train cancellations. "
+        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: No service between Willesden Green and Stanmore and SEVERE DELAYS on the rest of the line while we fix a points failure at Wembley Park. Tickets are being accepted on London Buses, Mildmay line, DLR, Elizabeth line, C2C, Southeastern and Thameslink. "
+        "reason": "Jubilee Line: Severe delays due to an earlier points failure at Wembley Park. Tickets are being accepted on London Buses, Mildmay line, DLR, Elizabeth line, C2C, Southeastern and Thameslink. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -40,24 +40,24 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Severe delays between Aldgate and Uxbridge and MINOR DELAYS on the rest of the line due to an earlier signalling problem at Rickmansworth and an earlier signal failure at Rayners Lane. London Buses are accepting tickets via any reasonable route. "
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Minor delays between Willesden Junction and Clapham Junction due to an earlier points failure at Kensington (Olympia). GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": true,
         "reason": "NORTHERN LINE: From 0130 Saturday 14 until 0130 Sunday 15 November, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. There will be no Friday Night Tube service between Charing Cross and Morden. Replacement bus services operate during day hours only, for Night journeys please use Night Bus services"
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals due to an earlier animal on the track. Tickets are being accepted on London Buses, Elizabeth line and South Western Railway services via any reasonable route. MINOR DELAYS on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: No service between Barking and Barking Riverside while we fix a points failure at Barking. GOOD SERVICE on the rest of the line. "
+        "reason": "Suffragette Line: No service between Barking Riverside and Barking for the rest of the day due to a points failure at Barking. GOOD SEVICE on the rest of the line. "
     },
     "Tram": {
         "is_disrupted": false,
@@ -72,8 +72,8 @@
         "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: No service between Seven Sisters and Enfield Town/Cheshunt while we fix a points failure in the Edmonton Green area. GOOD SERVICE on the rest of the line. "
     },
     "Windrush": {
         "is_disrupted": false,
