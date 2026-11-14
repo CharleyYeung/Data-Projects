@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays due to train cancellations.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: No service between Earl's Court and Kensington (Olympia) and MINOR DELAYS between Earl's Court and Wimbledon due to train cancellations. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
+        "reason": "District Line: Minor delays due to train cancellations.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -24,12 +24,12 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to an earlier points failure at Wembley Park. Tickets are being accepted on London Buses, Mildmay line, DLR, Elizabeth line, C2C, Southeastern and Thameslink. "
+        "reason": "Jubilee Line: Minor delays due to train cancellations. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Aldgate and Uxbridge and MINOR DELAYS on the rest of the line due to an earlier signalling problem at Rickmansworth and an earlier signal failure at Rayners Lane. London Buses are accepting tickets via any reasonable route. "
+        "reason": "Metropolitan Line: Minor delays due to train cancellations.  "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -72,11 +72,11 @@
         "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: No service between Seven Sisters and Enfield Town/Cheshunt while we fix a points failure in the Edmonton Green area. GOOD SERVICE on the rest of the line. "
-    },
-    "Windrush": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Windrush": {
+        "is_disrupted": true,
+        "reason": "Windrush Line: Minor delays due to an earlier customer incident at Haggerston.  "
     }
 }
