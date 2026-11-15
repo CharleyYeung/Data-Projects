@@ -1,19 +1,19 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: No service between Stonebridge Park and Harrow & Wealdstone while we fix a signal failure at Kenton. Please use the Lioness line to complete your journey. Tickets are also being accepted on London Buses. GOOD SERVICE on the rest of the line. "
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays due train cancellations. "
     },
     "Circle": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: No service between Earl's Court and Kensington (Olympia) due to train cancellations. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": true,
@@ -24,8 +24,8 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "HAMMERSMITH & CITY LINE: Sunday 15 November, between 1000 and 1800, no service between Plaistow and Barking. Please use DISTRICT LINE services."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge / Watford / Chesham / Amersham due to train cancellations. The next southbound train departing Chesham will be at 12:26. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge / Watford / Chesham / Amersham due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -56,16 +56,16 @@
         "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "SUFFRAGETTE LINE: Sunday 15 November, until 1315, no service between Gospel Oak and Barking Riverside. Use VICTORIA LINE connections between Seven Sisters (for South Tottenham), Blackhorse Road and Walthamstow Central, and local London Buses services between Barking and Barking Riverside. Replacement buses operate."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: No service between Walthamstow Central and Highbury & Islington while respond to a fire alert at Seven Sisters. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Suffragette line, Weaver line, Greater Anglia, Southeastern and South Western Railway services. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
