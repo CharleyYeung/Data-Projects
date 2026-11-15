@@ -1,55 +1,55 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Service will resume later this morning. "
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Severe delays due to an earlier trespasser on the track at Paddington. Tickets are being accepted on London Buses. "
+        "reason": "Circle Line: Service will resume later this morning. "
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays due to train cancellations.  "
+        "reason": "District Line: Service will resume later this morning. "
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: Service will resume later this morning. There will be no service between Tower Gateway and Shadwell due to planned engineering work. "
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Service will resume later this morning. There will be no service between West Drayton and Slough until 08.15 and between Paddington/Liverpool Street and Whitechapel to Abbey Wood until 10.15 due to planned engineering work. "
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to an earlier trespasser on the track at Paddington.  "
+        "reason": "Hammersmith and City Line: Service will resume later this morning. There will be no service between Plaistow and Barking from 10.00 until 18.00 due to planned engineering work. "
     },
     "Jubilee": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Liberty": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Liberty Line: Service will resume later this morning. "
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Service will resume later this morning. "
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays due to train cancellations. "
+        "reason": "Metropolitan Line: Service will resume later this morning. "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Clapham Junction due to planned engineering work. "
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "NORTHERN LINE: From 0130 Saturday 14 until 0130 Sunday 15 November, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. There will be no Friday Night Tube service between Charing Cross and Morden. Replacement bus services operate during day hours only, for Night journeys please use Night Bus services"
+        "reason": "NORTHERN LINE: From 0130 until 0530 Sunday 15 November, no Saturday Night Tube service between East Finchley / Golders Green and Morden. Please use Night Bus services."
     },
     "Piccadilly": {
         "is_disrupted": false,
@@ -57,23 +57,23 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: No service between Barking Riverside and Barking for the rest of the day due to a points failure at Barking. GOOD SEVICE on the rest of the line. "
+        "reason": "Suffragette Line: Service will resume later this morning. There will be no service until 13.15 due to planned engineering work. "
     },
     "Tram": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "London Tramlink: Service will resume later this morning. "
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Severe delays due to an earlier animal on the track. Tickets are being accepted on London Buses, London Overground, Great Northern, Thameslink, Greater Anglia, South Western Railway, and Southeastern service. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: Service will resume later this morning. "
     },
     "Windrush": {
         "is_disrupted": false,
