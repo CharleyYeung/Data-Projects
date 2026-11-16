@@ -1,82 +1,82 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays between Stonebridge Park and Harrow & Wealdstone due to an earlier signal failure at Kenton. GOOD SERVICE on the rest of the line. "
+        "reason": "Bakerloo Line: Service will resume later this morning. "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays due train cancellations. "
+        "reason": "Central Line: Service will resume later this morning. "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Service will resume later this morning. "
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Service will resume later this morning. "
     },
     "DLR": {
         "is_disrupted": true,
-        "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 15 November, no service between Shadwell and Tower Gateway."
+        "reason": "Docklands Light Railway: Service will resume later this morning. "
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Service will resume later this morning. "
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Service will resume later this morning. "
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Service will resume later this morning. "
     },
     "Liberty": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Liberty Line: Service will resume later this morning. "
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Service will resume later this morning. "
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Service will resume later this morning. "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "MILDMAY LINE: Sunday 15 November, no service between Willesden Junction and Clapham Junction. There will also be no SOUTHERN services between Watford Junction and Clapham Junction at these times. Please use local London Buses connections."
+        "reason": "Mildmay Line: Service will resume later this morning. "
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "NORTHERN LINE: From 0530 Sunday 15 November, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. Replacement bus services operate."
+        "reason": "Northern Line: Service will resume later this morning. "
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Service will resume later this morning. "
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: Service will resume later this morning. "
     },
     "Tram": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "London Tramlink: Service will resume later this morning. "
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Severe delays due to an earlier fire alert at Seven Sisters and an earlier points failure at Brixton. Tickets are being accepted on London Buses, Suffragette line, Weaver line, Greater Anglia, Southeastern and South Western Railway services. "
+        "reason": "Victoria Line: Service will resume later this morning. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+        "reason": "Waterloo and City Line: Service will resume later this morning. "
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: Service will resume later this morning. "
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "WINDRUSH LINE: Sunday 15 November, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses will run as follows: New Cross Gate - Brockley - Honor Oak Park - Forest Hill - Sydenham - Crystal Palace. Tickets will be accepted on Southern Railway services between Crystal Palace and East Croydon via Norwood Junction. Alternatively, customers may use local buses or trams via any reasonable route."
+        "reason": "Windrush Line: Service will resume later this morning. "
     }
 }
