@@ -13529,3 +13529,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-11-18 13:37:46,Central,Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip  and between Leytonstone and Hainault via Newbury Park / Epping due to train cancellations. GOOD SERVICE on the rest of the line. ,True
 2026-11-18 13:37:46,District,District Line: Minor delays between Turnham Green and Ealing Broadway due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
 2026-11-18 13:37:46,Hammersmith & City,Hammersmith and City Line: Minor delays due to an earlier animal on the track. ,True
+2026-11-18 21:35:22,Bakerloo,Bakerloo Line: Minor delays due to train cancellations. ,True
+2026-11-18 21:35:22,Central,Central Line: Minor delays due to train cancellations.  ,True
+2026-11-18 21:35:22,District,District Line: Severe delays between Earl's Court and Ealing Broadway due to an earlier faulty train at Cannon Street. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses.  ,True
