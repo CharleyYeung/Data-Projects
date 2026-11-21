@@ -1,79 +1,79 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays due to a track fault at Willesden Junction. "
+        "reason": "Bakerloo Line: Service will resume later this morning. There will be no service between Queen's Park and Harrow & Wealdstone due to planned engineering work. "
     },
     "Central": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Service will resume later this morning. "
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: No service between Turnham Green and Ealing Broadway due to strike action. SEVERE DELAYS on the rest of the line due to train cancellations. London Buses, DLR, Mildmay line, South Western Railway, Elizabeth line, C2C and South Western Railway are accepting valid tickets via any reasonable route. "
+        "reason": "TUBE STRIKE: Piccadilly line service control staff are taking strike action from Friday 20 until Saturday evening, 21 November. Due to shared infrastructure around the Ealing Common District line depot, there will be no DISTRICT LINE service between Turnham Green and Ealing Broadway from midday on Friday until Saturday evening, with a reduced service on the rest of the line. No Piccadilly line service is expected during the strike. Replacement bus services operate during Friday Night Tube and Saturday daytime hours only. Please use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond, where available."
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: Service will resume later this morning. There will be no service between Stratford International and Canning Town due to planned engineering work. "
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Service will resume later this morning. "
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Service will resume later this morning. "
     },
     "Jubilee": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Liberty": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Liberty Line: Service will resume later this morning. "
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Service will resume Monday morning. There will be no service between Euston and Watford Junction due to planned engineering work. "
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Service will resume later this morning. "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Minor delays due to a faulty train at Stratford. "
+        "reason": "Mildmay Line: Service will resume later this morning. "
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Severe delays between Camden Town and Battersea Power Station via Charing Cross southbound only due to train cancellations. MINOR DELAYS on the rest of the line. London Buses are accepting ticket via any reasonable route. "
+        "reason": "NORTHERN LINE: On the early mornings of Saturday 21 and Sunday 22 November, no Night Tube service between Kennington and Stockwell. Please use Night Bus Route N155 between Kennington, Oval and Stockwell. For travel between Central London and stations between Stockwell and Morden, use Victoria line connections via Stockwell."
     },
     "Piccadilly": {
         "is_disrupted": true,
         "reason": "TUBE STRIKE: Piccadilly line service control staff are planning to take strike action from Friday 20 until Saturday evening 21 November. There will be no service from midday on Friday until Saturday evening, including Night Tube on Friday night. Normal Night Tube service is expected to operate on Saturday night. Due to shared infrastructure around the Ealing Common District line depot, there will be no DISTRICT LINE service between Turnham Green and Ealing Broadway from midday on Friday until Saturday evening. Replacement buses will operate during Friday Night Tube hours and Saturday daytime only. Please use ELIZABETH LINE services for travel between Central London and Heathrow, and between terminals, and METROPOLITAN LINE services between Rayners Lane and Uxbridge."
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: Service will resume later this morning. "
     },
     "Tram": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "London Tramlink: Service will resume later this morning. "
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to an earlier points failure at Brixton.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday.\r\n "
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: Service will resume later this morning. "
     },
     "Windrush": {
         "is_disrupted": false,
