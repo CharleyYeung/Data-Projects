@@ -4,32 +4,32 @@
         "reason": "BAKERLOO LINE: Saturday 21 and Sunday 22 November, no service between Queens Park and Harrow & Wealdstone. Please note that special bus service 718 will NOT operate. There will also be no LIONESS LINE service between Euston and Watford Junction. LONDON NORTH WESTERN RAILWAY trains continue to stop at Harrow & Wealdstone. SOUTHERN trains stop at Wembley Central and Harrow & Wealdstone until 1900 Saturday only, not on Sunday."
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Severe delays due to train cancellations. London Buses, Elizabeth line, Liberty line, Chiltern Railways and Greater Anglia are accepting valid tickets via any reasonable route. "
-    },
-    "Circle": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
+    "Circle": {
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays due to train cancellations.  "
+    },
     "District": {
         "is_disrupted": true,
-        "reason": "TUBE STRIKE: Piccadilly line service control staff are taking strike action from Friday 20 until Saturday evening, 21 November. Due to shared infrastructure around the Ealing Common District line depot, there will be no DISTRICT LINE service between Turnham Green and Ealing Broadway from midday on Friday until Saturday evening, with a reduced service on the rest of the line. No Piccadilly line service is expected during the strike. Replacement bus services operate during Friday Night Tube and Saturday daytime hours only. Please use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond, where available."
+        "reason": "District Line: No service between Kensington (Olympia) and Earl's Court due to train cancellations. SEVERE DELAYS on the rest of the line due to strike action. Tickets will be accepted on London Buses, Mildmay line, DLR, Elizabeth line, C2C and South Western services.  "
     },
     "DLR": {
         "is_disrupted": true,
         "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 21 and Sunday 22 November, no service between Canning Town and Stratford International. Please use JUBILEE LINE and local London Buses services."
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Severe delays between Maidenhead and Reading and MINOR DELAYS between Abbey Wood and Heathrow Terminals / Maidenhead due to an earlier person ill on a train at Whitechapel. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to an earlier faulty train at North Greenwich.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Metropolitan Line: Minor delays due to train cancellations. "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: No service between Willesden Junction and Clapham Junction due to a customer incident. GOOD SERVICE on the rest of the line.  "
     },
     "Northern": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "TUBE STRIKE: Piccadilly line service control staff are planning to take strike action from Friday 20 until Saturday evening 21 November. There will be no service from midday on Friday until Saturday evening, including Night Tube on Friday night. Normal Night Tube service is expected to operate on Saturday night. Due to shared infrastructure around the Ealing Common District line depot, there will be no DISTRICT LINE service between Turnham Green and Ealing Broadway from midday on Friday until Saturday evening. Replacement buses will operate during Friday Night Tube hours and Saturday daytime only. Please use ELIZABETH LINE services for travel between Central London and Heathrow, and between terminals, and METROPOLITAN LINE services between Rayners Lane and Uxbridge."
+        "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge and MINOR DELAYS on the rest of the line due to strike action. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central while we fix a points failure at Walthamstow Central. Tickets being accepted on London Buses. SEVERE DELAYS on the rest of the line.  "
+        "reason": "Victoria Line: Minor delays due to an earlier points failure at Walthamstow Central.  "
     },
     "Waterloo & City": {
         "is_disrupted": true,
