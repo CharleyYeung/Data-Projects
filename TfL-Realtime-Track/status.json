@@ -1,19 +1,19 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: No service between Stonebridge Park and Harrow & Wealdstone, and SEVERE DELAYS on the rest of the line due to strike action. Services are operating approximately every 10 minutes between Stonebridge Park and Elephant & Castle. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
+        "reason": "Central Line: Severe delays due to the earlier strike action. "
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Severe delays due to strike action. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Severe delays due to strike action. If you're travelling beyond Earl's Court, please take the first train and change there. Services are operating every 10 minutes. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
@@ -25,7 +25,7 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Severe delays due to strike action. "
+        "reason": "Hammersmith and City Line: Minor delays due to train cancellations.  "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -41,23 +41,23 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays due to strike action. "
+        "reason": "Metropolitan Line: Minor delays between Harrow on the Hill and Uxbridge due to the earlier strike action. GOOD SERVICE on the rest of the line "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "MILDMAY LINE: Friday 27 November, the 2159 train from Stratford to Richmond will terminate at Camden Road at 2219. The 2318 train from Richmond to Willesden Junction will not run"
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Severe delays due to strike action. "
+        "reason": "Northern Line: Minor delays between Camden Town and Kennington via Charing Cross due to a points failure at Kennington. GOOD SERVICE on the rest of the line. "
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, and SEVERE DELAYS between Acton Town and Rayners Lane and MINORS DELAYS on the rest of the line due to strike action.  "
-    },
-    "Suffragette": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Suffragette": {
+        "is_disrupted": true,
+        "reason": "SUFFRAGETTE LINE: Friday 27 November, the 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338"
     },
     "Tram": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Severe delays due to strike action. "
+        "reason": "Victoria Line: Minor delays due to the earlier strike action. "
     },
     "Waterloo & City": {
         "is_disrupted": false,
