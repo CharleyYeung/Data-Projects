@@ -1,19 +1,19 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and NO SERVICE between Paddington and Elephant & Castle due to strike action. SEVERE DELAYS on the rest of the line.  "
+        "reason": "Bakerloo Line: Service is not expected to resume until after 07:00hrs due to strike action. "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: No service between White City and Epping / Hainault via Newbury Park due to strike action. MINOR DELAYS on the rest of the line. Service is operating between White City and Ealing Broadway / West Ruislip every 12 minutes. "
+        "reason": "Central Line: Service is not expected to resume until after 07:00hrs due to strike action. "
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: No service on the entire line due to strike action. "
+        "reason": "Circle Line: Service is not expected to resume until after 12:00hrs due to strike action. "
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: No service between Turnham Green and Ealing Broadway due to strike action. SEVERE DELAYS on the rest of the line. If you're travelling beyond Earl's Court, please take the first train and change there. Services are operating approximately every 10 minutes. "
+        "reason": "District Line: Service is not expected to resume until after 07:00hrs due to strike action. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -25,11 +25,11 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Severe delays due to strike action. Services are operating approximately every 12 minutes between Hammersmith and Aldgate and every 30 minutes between Edgware Road and Barking "
+        "reason": "Hammersmith and City Line: No service between Liverpool Street and Barking due to strike action. MINOR DELAYS on the rest of the line. Services are operating every 10 minutes. "
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to strike action. "
+        "reason": "Jubilee Line: Service is not expected to resume until after 07:00hrs due to strike action. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Watford / Uxbridge every 15 minutes, between Baker Street and Amersham every 30 minutes and between Watford and Chesham every 30 minutes. Customers travelling to Chesham are advised to go to Watford and change. "
+        "reason": "Metropolitan Line: Service is not expected to resume until after 07:00hrs due to strike action. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -49,11 +49,11 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: No service on the entire line due to strike action. "
+        "reason": "Northern Line: Service is not expected to resume until after 07:00hrs due to strike action. "
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Acton Town and Arnos Grove / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Cockfosters and Arnos Grove approximately every 20 minutes and between Acton Town and Heathrow Terminals 2 & 3 approximately every 20 minutes. "
+        "reason": "Piccadilly Line: Service is not expected to resume until after 12:00hrs due to strike action. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -65,18 +65,18 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Severe delays due to an earlier customer incident. Tickets are being accepted on London Buses via any reasonable route. "
+        "reason": "Victoria Line: Service is not expected to resume until after 07:00hrs due to strike action. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo and City Line: No service due to strike action. Tube services on other lines will finish early tonight so please complete your journey by 21:00. "
+        "reason": "Waterloo and City Line: Service is not expected to resume until after 07:00hrs due to strike action. "
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "WEAVER LINE: Monday 23, Tuesday 24, Wednesday 25 and Thursday 26 November, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt (except on Wednesday when it is at 2213), 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: No service between West Croydon and Sydenham while we fix a points failure at Sydenham. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
