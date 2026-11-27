@@ -1,19 +1,19 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Service is not expected to resume until after 07:00hrs due to strike action. "
+        "reason": "Bakerloo Line: No service between Stonebridge Park and Harrow & Wealdstone, and SEVERE DELAYS on the rest of the line due to strike action. Services are operating approximately every 10 minutes between Stonebridge Park and Elephant & Castle. "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Service is not expected to resume until after 07:00hrs due to strike action. "
+        "reason": "Central Line: No service between White City and Marble Arch due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 20 minutes. "
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Service is not expected to resume until after 12:00hrs due to strike action. "
+        "reason": "Circle Line: Severe delays due to strike action. "
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Service is not expected to resume until after 07:00hrs due to strike action. "
+        "reason": "District Line: Severe delays due to strike action. If you're travelling beyond Earl's Court, please take the first train and change there. Services are operating every 10 minutes. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -25,11 +25,11 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: No service between Liverpool Street and Barking due to strike action. MINOR DELAYS on the rest of the line. Services are operating every 10 minutes. "
+        "reason": "Hammersmith and City Line: Severe delays due to strike action. "
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Service is not expected to resume until after 07:00hrs due to strike action. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Service is not expected to resume until after 07:00hrs due to strike action. "
+        "reason": "Metropolitan Line: Severe delays due to strike action. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -49,11 +49,11 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Service is not expected to resume until after 07:00hrs due to strike action. "
+        "reason": "Northern Line: Severe delays due to strike action. "
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Service is not expected to resume until after 12:00hrs due to strike action. "
+        "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge, and SEVERE DELAYS between Acton Town and Rayners Lane and MINORS DELAYS on the rest of the line due to strike action.  "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -65,11 +65,11 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Service is not expected to resume until after 07:00hrs due to strike action. "
+        "reason": "Victoria Line: Severe delays due to strike action. "
     },
     "Waterloo & City": {
-        "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service is not expected to resume until after 07:00hrs due to strike action. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Weaver": {
         "is_disrupted": false,
